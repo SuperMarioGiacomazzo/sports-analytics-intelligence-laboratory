@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "SAIL at UNC"
+  favicon: "favicon.html"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: team.qmd
+        text: Team
+      - href: contact.qmd
+        text: Contact
+      - href: events.qmd
+        text: Events
+        
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
+

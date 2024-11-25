@@ -1,0 +1,12 @@
+{
+  "hash": "25f1e74d8839a7049605a9543b3699fc",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Sports Analytics Intelligence Lab (SAIL)\"\n---\n\n# History of SAIL\n\nThe idea for the Sports Analysis and Intelligence Laboratory (SAIL) was conceived in Fall 2022. Conor Kerr, advised by Dr. Mario Giacomazzo of the STOR Department, had been working on sports analytics projects with UNC Men’s and Women’s Basketball for two years. As the work demand increased, the need to expand increased. From December 2022 to January 2023, the first SAIL applications were received, and 52 well-deserving undergraduates applied to be an Undergraduate Sports Analyst (USA). With the help of Andrew Ackerman, a PhD student in the STOR department, we selected 5 students to be the first team of USAs.\n\n\n```{css,echo=F}\n.caption{\n   text-align: center;\n} \n```\n\n\n[![Founding Members of SAIL](imgs/Class1.jpg){fig-align=\"center\" width=\"70%\"}](https://stor.unc.edu/news-item/sports-analysis-intelligence-laboratory/)\\\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
