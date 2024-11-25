@@ -1,6 +1,11 @@
 project:
   type: website
   output-dir: docs
+  resources:
+  - "/demo-files/"
+  render:
+    - "*.qmd"
+    - "!/demo-files"
 
 website:
   title: "SAIL at UNC"
@@ -8,13 +13,13 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: About
+        text: "About"
       - href: team.qmd
-        text: Team
+        text: "Team"
       - href: contact.qmd
-        text: Contact
+        text: "Contact"
       - href: events.qmd
-        text: Events
+        text: "Events"
         
 
 format:

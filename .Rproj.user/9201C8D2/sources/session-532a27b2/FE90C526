@@ -3,7 +3,7 @@
     "path": "D:/DoctorMario/UNC/Undergrad Research and Internships/sports-analytics-intelligence-laboratory/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "2565042952",
     "contents": "",
     "dirty": false,
     "created": 1732564657250.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "9,23",
-        "scrollLine": "0"
+        "cursorPosition": "30,14",
+        "scrollLine": "1"
     },
     "folds": "",
-    "lastKnownWriteTime": 1732574177,
+    "lastKnownWriteTime": 1732574892,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1732574177505,
+    "last_content_update": 1732574892433,
     "read_only": false,
     "read_only_alternatives": []
 }
