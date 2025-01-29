@@ -2,6 +2,39 @@
 title: "Events Organized by SAIL"
 ---
 
+```{=html}
+<style>
+
+.column {
+  float: left;
+}
+
+.left {
+  width: 50%;
+}
+
+.right {
+  width: 50%;
+}
+
+</style>
+```
 ## Upcoming Events
 
+### SAIL Speaker Series Spring 2025
+
+![](docs/imgs/SSS2025_RichardSmith){width="75%"}
+
 ## Past Events
+
+### SAIL Speaker Series Spring 2024
+
+::: row
+::: column
+![](docs/imgs/SSS2024_MarchMathness)
+:::
+
+::: column
+![](docs/imgs/SSS2024_WomenInSports)
+:::
+:::

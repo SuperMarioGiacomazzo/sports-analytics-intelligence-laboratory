@@ -18,7 +18,7 @@
     "href": "events.html#past-events",
     "title": "Events Organized by SAIL",
     "section": "Past Events",
-    "text": "Past Events"
+    "text": "Past Events\n\nSAIL Speaker Series Spring 2024"
   },
   {
     "objectID": "about.html",
@@ -61,5 +61,19 @@
     "title": "Sports Analytics Intelligence Lab (SAIL)",
     "section": "Contacting SAIL",
     "text": "Contacting SAIL\nIf you are a member of the UNC community and would like the help of SAIL on data collection, data analysis, or sports analytics research, please fill out the Google form embedded here. After we discuss your project ideas with the team, we will respond quickly to set up a meeting with you and SAIL. If we believe that we can be helpful and provide you the analytical support you need, we will propose a plan to work with you. Our partnership with maybe short-term or long-term depending on your needs and our availability."
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events Organized by SAIL",
+    "section": "",
+    "text": ".column { float: left; width: 50%; }\n/* Clear floats after the columns */ .row:after { content: ““; display: table; clear: both; }"
+  },
+  {
+    "objectID": "events.html#upcoming-events",
+    "href": "events.html#upcoming-events",
+    "title": "Events Organized by SAIL",
+    "section": "Upcoming Events",
+    "text": "Upcoming Events"
   }
 ]
