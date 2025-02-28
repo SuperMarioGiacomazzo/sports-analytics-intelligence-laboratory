@@ -18,7 +18,7 @@ Undergraduate Sports Analyst, 2024-Present
 
 Statistics & Analytics and Biology
 
-Football, injury prevention, and volleyball.
+Football, injury prevention, and volleyball
 
 ### Shane Faberman
 
@@ -76,6 +76,14 @@ Computer Science and Physics (Quantitative Finance concentration)
 
 Sports betting, predictive modeling, capital markets, basketball
 
+### Aneesh Sallaram
+
+Undergraduate Sports Analyst, 2024-Present
+
+Computer Science and Statistics & Analytics
+
+Basketball, baseball, line-up efficiency, predictive metrics
+
 ## Graduate Advisors
 
 ### Kendall Thomas
@@ -110,7 +118,7 @@ Graduate Advisor, 2024-Present
 
 Ph.D. student in Statistics and Operations Research
 
-Sport-related concussions, neuroimaging, and multivariate Statistics
+Sport-related concussions, neuroimaging, and multivariate statistics
 
 ## Faculty Advisors
 
