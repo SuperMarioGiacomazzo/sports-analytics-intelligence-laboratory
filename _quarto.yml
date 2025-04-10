@@ -8,7 +8,7 @@ project:
     - "!/demo-files"
 
 website:
-  title: "SAIL at UNC"
+  title: "SAIL @ UNC"
   favicon: "favicon.html"
   navbar:
     left:
@@ -16,10 +16,12 @@ website:
         text: "About"
       - href: team.qmd
         text: "Team"
-      - href: contact.qmd
-        text: "Contact"
       - href: events.qmd
         text: "Events"
+      - href: projects.qmd
+        text: "Projects"
+      - href: contact.qmd
+        text: "Contact"
         
 
 format:
