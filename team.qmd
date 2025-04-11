@@ -290,7 +290,7 @@ Data Analyst at Red Ventures
 :::{.column-content}
 ***Andy Ackerman*** </br>
 Graduate Advisor, 2022-24 </br>
-*Ph.D. Student in Statistics and Operations Research*
+*Ph.D. Student in Statistics and Operations Research* </br>
 Incoming Assistant Professor at Lafayette College
 :::
 :::
