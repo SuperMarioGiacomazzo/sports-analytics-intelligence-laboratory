@@ -2,7 +2,6 @@
 title: "Current SAIL Team"
 ---
 
-<<<<<<< Updated upstream
 ```{=html}
 <style>
 .column-container {
@@ -115,85 +114,9 @@ Undergraduate Sports Analyst, 2024-Present </br>
 Athletic performance and training
 :::
 :::
-=======
-## Undergraduates
-
-### Conor Kerr
->>>>>>> Stashed changes
-
-Founder, 2022-Present </br> Principal, 2022-2025 </br>
-
-Statistics & Analytics and Economics (Mathematics minor)
-
-Basketball, athletic performance, athletic training, and sports economics
-
-### Connor McManus
-
-Undergraduate Sports Analyst, 2024-Present
-
-Statistics & Analytics and Biology
-
-Football, injury prevention, and volleyball.
-
-### Shane Faberman
-
-Undergraduate Sports Analyst, 2024-Present
-
-Data Science and Computer Science
-
-Basketball, football, baseball, in-game decision-making, and team development
-
-### Yunus Mouline
-
-Undergraduate Sports Analyst, 2024-Present
-
-Statistics & Analytics and Mathematics (Spanish minor)
-
-Basketball, track and field, predictive modeling, data visualization, and sports betting
-
-### Gordon Tao
-
-Undergraduate Sports Analyst, 2024-Present
-
-Computer Science and Data Science
-
-Athletic performance and training
-
-### Khushi Shah
-
-Undergraduate Sports Analyst, 2024-Present
-
-Statistics & Analytics (Data Science and Neuroscience minors)
-
-Volleyball, athletic performance, exercise physiology, metabolism, and neuroscience.
-
-### Abigail Mabe
-
-Undergraduate Sports Analyst, 2023-Present
-
-Statistics & Analytics and Biology (Data Science minor)
-
-Marathon racing, swimming, data visualization, extreme value theory, and Bayesian data analysis
-
-### Isabel Marshall
-
-Undergraduate Sports Analyst, 2024-Present
-
-Business Administration and Physics (Quantitative Finance concentration)
-
-Investment strategy, athletic performance, capital markets, and sports industry
-
-### Arsh Madhani
-
-Undergraduate Sports Analyst, 2024-Present
-
-Computer Science and Physics (Quantitative Finance concentration)
-
-Sports betting, predictive modeling, capital markets, basketball
 
 ## Graduate Advisors
 
-<<<<<<< Updated upstream
 :::{.column-container}
 :::{.column-image}
 <img src="imgs/Photos25/Thomas25.JPG" width="180px" height="180px" style="border-radius: 50%; object-fit: cover; object-position: 50% 50%; border: 3px solid #333; display: block; margin: 0 auto;">
@@ -375,86 +298,3 @@ Graduate Student Advisor, 2023-2025 </br>
 Assistant Professor at University of Oklahoma
 :::
 :::
-=======
-### Kendall Thomas
-
-Graduate Advisor, 2023-Present </br> Principal, 2025-Present
-
-Ph.D. student in Statistics and Operations Research
-
-Athletic performance, injury prevention, soccer, basketball, football, and volleyball
-
-### Lewis Dubrowski
-
-Graduate Advisor, 2024-Present </br> Undergraduate Sports Analyst, 2023-2024
-
-Ph.D. student in Statistics and Operations Research
-
-Formerly Statistics & Analytics and Exercise Sport Science Major (History minor)
-
-Baseball, prediction, and biomechanics
-
-### Sam Moore
-
-Graduate Student Advisor, 2023-Present
-
-Ph.D. student in Exercise Physiology
-
-Female physiology and athletic performance
-
-### Coleman Ferrell
-
-Graduate Advisor, 2024-Present
-
-Ph.D. student in Statistics and Operations Research
-
-Sport-related concussions, neuroimaging, and multivariate Statistics
-
-## Faculty Advisors
-
-### Mario Giacomazzo
-
-Faculty Director, 2022-Present
-
-Ph.D. in Statistics (Arizona State University)
-
-### Will Lassister
-
-Faculty Advisor, 2023-Present
-
-Ph.D. in Operations Research (Georgia Institute of Technology)
-
-### Patrick Lopatto
-
-Faculty Advisor, 2024-Present </br> Research Tzar, 2025-Present
-
-Ph.D. in Mathematics (Harvard University)
-
-## Alumni
-
-### Sarah Wooster
-
-sarah.e.wooster\@gmail.com
-
-Undergraduate Sports Analyst, 2023-2024
-
-B.S. in Statistics & Analytics and Information Science
-
-Data and Analytics Advanced Development Program at Vanguard
-
-### Jakob Thoma
-
-jathoma14\@gmail.com
-
-Undergraduate Sports Analyst, 2023-2024
-
-B.S. in Statistics & Analytics (Data Science minor)
-
-Data Analyst at Red Ventures
-
-### Andy Ackerman
-
-Graduate Advisor, 2022-24
-
-Ph.D. student in Statistics and Operations Research
->>>>>>> Stashed changes
