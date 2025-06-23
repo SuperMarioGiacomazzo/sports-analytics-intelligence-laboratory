@@ -2,7 +2,6 @@
 title: "Current SAIL Team"
 ---
 
-<<<<<<< Updated upstream
 ## Working Projects
 
 <b>Assessment of Cyclical and Derivative-based Acute:Chronic Workload Ratios for Predicting Injuries in Collegiate Men's Basketball</b>
@@ -14,19 +13,4 @@ Contributors: Conor Kerr, Doug Halverson, Khushi Shah
 <b>Utilizing Training Load and Intensity to Predict Team Performance in NCAA Division I Men's Basketball</b>
 
 Contributors: Conor Kerr, Sam Moore, Doug Halverson, Abbie Smith-Ryan</br> Presented in April, 2023
-=======
-## Undergraduate Sports Analysts (USAs)
 
-### Conor Kerr
-
-
-## Graduate Advisors
-
-## Faculty Advisors
-
-## Alumni
-
-Andy
-Jake
-Sarah
->>>>>>> Stashed changes
