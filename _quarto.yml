@@ -20,11 +20,8 @@ website:
         text: "Events"
       - href: projects.qmd
         text: "Projects"
-<<<<<<< Updated upstream
       - href: apply.qmd
         text: "Apply"
-=======
->>>>>>> Stashed changes
       - href: contact.qmd
         text: "Contact"
         
