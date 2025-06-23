@@ -16,11 +16,14 @@
   },
   "projects.qmd": {
     "projects.html": "e2203cd5"
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   },
   "apply.qmd": {
     "apply.html": "bf4e9066"
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of c564023 (Apply Tab and Team Updates)
   }
 }

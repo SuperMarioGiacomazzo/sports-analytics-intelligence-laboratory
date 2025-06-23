@@ -40,6 +40,33 @@ Basketball, football, baseball, in-game decision-making, and team development
 
 :::{.column-container}
 :::{.column-image}
+<img src="imgs/Photos25/Kerr25.JPG" width="180px" height="180px" style="border-radius: 50%; object-fit: cover; object-position: 50% 50%; border: 3px solid #333; display: block; margin: 0 auto;">
+:::
+
+:::{.column-content}
+***Conor Kerr*** </br>
+Founder, 2022-Present </br>
+Principal, 2022-2025 </br>
+*Statistics & Analytics and Economics (Mathematics minor)* </br>
+Basketball, athletic performance, athletic training, and sports economics
+:::
+:::
+
+:::{.column-container}
+:::{.column-image}
+<img src="imgs/Photos25/Mabe25.JPG" width="180px" height="180px" style="border-radius: 50%; object-fit: cover; object-position: 50% 50%; border: 3px solid #333; display: block; margin: 0 auto;">
+:::
+
+:::{.column-content}
+***Abigail Mabe*** </br>
+Undergraduate Sports Analyst, 2023-Present </br>
+*Statistics & Analytics and Biology (Data Science minor)* </br>
+Marathon racing, swimming, data visualization, extreme value theory, and Bayesian data analysis
+:::
+:::
+
+:::{.column-container}
+:::{.column-image}
 <img src="imgs/Photos25/Madhani25.JPG" width="180px" height="180px" style="border-radius: 50%; object-fit: cover; object-position: 50% 50%; border: 3px solid #333; display: block; margin: 0 auto;">
 :::
 
@@ -61,6 +88,19 @@ Sports betting, predictive modeling, capital markets, basketball
 Undergraduate Sports Analyst, 2024-Present </br>
 *Business Administration and Physics (Quantitative Finance concentration)* </br>
 Investment strategy, athletic performance, capital markets, and sports industry
+:::
+:::
+
+:::{.column-container}
+:::{.column-image}
+<img src="imgs/Photos25/McManus25.JPG" width="180px" height="180px" style="border-radius: 50%; object-fit: cover; object-position: 50% 50%; border: 3px solid #333; display: block; margin: 0 auto;">
+:::
+
+:::{.column-content}
+***Connor McManus*** </br>
+Undergraduate Sports Analyst, 2024-Present </br>
+*Statistics & Analytics and Biology* </br>
+Football, injury prevention, and volleyball
 :::
 :::
 
@@ -204,7 +244,6 @@ Sports betting, predictive modeling, capital markets, basketball
 Graduate Advisor, 2023-Present </br>
 Principal, 2025-Present </br>
 *Ph.D. Student in Statistics and Operations Research* </br>
-*B.S. in Mathematics and Computer Science (Davidson College)* </br>
 Athletic performance, injury prevention, soccer, basketball, football, and volleyball
 :::
 :::
@@ -219,9 +258,21 @@ Athletic performance, injury prevention, soccer, basketball, football, and volle
 Graduate Advisor, 2024-Present </br>
 Undergraduate Sports Analyst, 2023-2024 </br>
 *Ph.D. Student in Statistics and Operations Research* </br>
-*B.S. in Statistics & Analytics (University of North Carolina at Chapel Hill)* </br>
 Formerly Statistics & Analytics and Exercise Sport Science Major (History minor) </br>
 Baseball, prediction, and biomechanics
+:::
+:::
+
+:::{.column-container}
+:::{.column-image}
+<img src="imgs/Photos25/Moore25.JPG" width="180px" height="180px" style="border-radius: 50%; object-fit: cover; object-position: 50% 50%; border: 3px solid #333; display: block; margin: 0 auto;">
+:::
+
+:::{.column-content}
+***Sam Moore*** </br>
+Graduate Student Advisor, 2023-Present </br>
+*Ph.D. Student in Exercise Physiology* </br>
+Female physiology and athletic performance
 :::
 :::
 
@@ -234,23 +285,7 @@ Baseball, prediction, and biomechanics
 ***Coleman Ferrell*** </br>
 Graduate Advisor, 2024-Present </br>
 *Ph.D. Student in Statistics and Operations Research* </br>
-*B.S. in Industrial Engineering and Mathematics (East Carolina University)* </br>
 Sport-related concussions, neuroimaging, and multivariate statistics
-:::
-:::
-
-:::{.column-container}
-:::{.column-image}
-<img src="imgs/Photos25/Mabe25.JPG" width="180px" height="180px" style="border-radius: 50%; object-fit: cover; object-position: 50% 50%; border: 3px solid #333; display: block; margin: 0 auto;">
-:::
-
-:::{.column-content}
-***Abigail Mabe*** </br>
-Graduate Advisor, 2025-Present </br>
-Undergraduate Sports Analyst, 2023-2025 </br>
-*M.S.P.H. Student in Biostatistics* </br>
-*B.S. in Statistics & Analytics and B.A. in Biology (University of North Carolina at Chapel Hill)* </br>
-Marathon racing, swimming, data visualization, extreme value theory, and Bayesian data analysis
 :::
 :::
 
@@ -305,7 +340,7 @@ Research Tzar, 2025-Present </br>
 sarah.e.wooster@gmail.com </br>
 Undergraduate Sports Analyst, 2023-2024 </br>
 *B.S. in Statistics & Analytics and Information Science* </br>
-PI Brokerage & Investments Data Analyst at Vanguard
+PI Brokerage & Investments Data Analyst
 :::
 :::
 
@@ -331,10 +366,11 @@ Data Analyst at Red Ventures
 :::{.column-content}
 ***Andy Ackerman*** </br>
 Graduate Advisor, 2022-24 </br>
-*Ph.D. in Statistics and Operations Research* </br>
-Assistant Professor at Lafayette College
+*Ph.D. Student in Statistics and Operations Research* </br>
+Incoming Assistant Professor at Lafayette College
 :::
 :::
+<<<<<<< HEAD
 
 :::{.column-container}
 :::{.column-image}
@@ -458,3 +494,5 @@ Graduate Advisor, 2022-24
 
 Ph.D. student in Statistics and Operations Research
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of c564023 (Apply Tab and Team Updates)
