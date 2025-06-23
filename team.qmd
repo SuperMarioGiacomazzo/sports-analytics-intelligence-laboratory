@@ -2,7 +2,6 @@
 title: "Current SAIL Team"
 ---
 
-<<<<<<< Updated upstream
 ```{=html}
 <style>
 .column-container {
@@ -411,88 +410,3 @@ Graduate Student Advisor, 2023-2025 </br>
 Assistant Professor at University of Oklahoma
 :::
 :::
-=======
-### Kendall Thomas
-
-Graduate Advisor, 2023-Present </br> Principal, 2025-Present
-
-Ph.D. student in Statistics and Operations Research
-
-Athletic performance, injury prevention, soccer, basketball, football, and volleyball
-
-### Lewis Dubrowski
-
-Graduate Advisor, 2024-Present </br> Undergraduate Sports Analyst, 2023-2024
-
-Ph.D. student in Statistics and Operations Research
-
-Formerly Statistics & Analytics and Exercise Sport Science Major (History minor)
-
-Baseball, prediction, and biomechanics
-
-### Sam Moore
-
-Graduate Student Advisor, 2023-Present
-
-Ph.D. student in Exercise Physiology
-
-Female physiology and athletic performance
-
-### Coleman Ferrell
-
-Graduate Advisor, 2024-Present
-
-Ph.D. student in Statistics and Operations Research
-
-Sport-related concussions, neuroimaging, and multivariate Statistics
-
-## Faculty Advisors
-
-### Mario Giacomazzo
-
-Faculty Director, 2022-Present
-
-Ph.D. in Statistics (Arizona State University)
-
-### Will Lassister
-
-Faculty Advisor, 2023-Present
-
-Ph.D. in Operations Research (Georgia Institute of Technology)
-
-### Patrick Lopatto
-
-Faculty Advisor, 2024-Present </br> Research Tzar, 2025-Present
-
-Ph.D. in Mathematics (Harvard University)
-
-## Alumni
-
-### Sarah Wooster
-
-sarah.e.wooster\@gmail.com
-
-Undergraduate Sports Analyst, 2023-2024
-
-B.S. in Statistics & Analytics and Information Science
-
-Data and Analytics Advanced Development Program at Vanguard
-
-### Jakob Thoma
-
-jathoma14\@gmail.com
-
-Undergraduate Sports Analyst, 2023-2024
-
-B.S. in Statistics & Analytics (Data Science minor)
-
-Data Analyst at Red Ventures
-
-### Andy Ackerman
-
-Graduate Advisor, 2022-24
-
-Ph.D. student in Statistics and Operations Research
->>>>>>> Stashed changes
-=======
->>>>>>> parent of c564023 (Apply Tab and Team Updates)
