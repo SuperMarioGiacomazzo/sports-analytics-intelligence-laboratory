@@ -21,12 +21,18 @@ website:
       - href: projects.qmd
         text: "Projects"
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 5849b82 (Touch Ups)
 <<<<<<< Updated upstream
       - href: apply.qmd
         text: "Apply"
 =======
 >>>>>>> Stashed changes
+<<<<<<< HEAD
+>>>>>>> parent of 5849b82 (Touch Ups)
+=======
 >>>>>>> parent of 5849b82 (Touch Ups)
       - href: contact.qmd
         text: "Contact"
