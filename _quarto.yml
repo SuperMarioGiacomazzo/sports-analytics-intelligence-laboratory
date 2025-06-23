@@ -20,6 +20,8 @@ website:
         text: "Events"
       - href: projects.qmd
         text: "Projects"
+      - href: apply.qmd
+        text: "Apply"
       - href: contact.qmd
         text: "Contact"
         

@@ -1,0 +1,100 @@
+---
+title: "SAIL-USA 2025 Rolling Application Template"
+author: "C.A. Kerr"
+date: "2025-04-25"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+---
+
+**Description**
+
+*Title and Work*
+
+The position of Undergraduate Student Analyst (USA) in The University of North Carolina at Chapel Hill Sports Analysis and Intelligence Laboratory (SAIL) will ask students to work in a team to assist the sport analytics efforts currently underway within the university. USAs will be tasked with using mathematics to make insights into the world of athletics, conducting data analyses on large sets of sports data related to game and practice performance. Part of the role would include communicating technical information in accurate and simple terms to decision makers and other stakeholders within the university and beyond. To complete such tasks, USAs will work in a group with multi-departmental graduate students and faculty advisors to consider big picture ideas and plans but will also work individually or in small groups to complete tasks such as programming R Scripts to carry out computation. Undergraduate Student Analysts can expect to work between three and five hours per week, including participation in weekly one-hour group meetings and weekly one-hour small group work sessions. Throughout their tenure, USAs may encounter rigorous work, but they should find their experience to be invaluable in their development as scholars and professionals.
+
+*Requirements*
+
+· Must be a currently enrolled freshman, sophomore, or junior at The University of North Carolina at Chapel Hill
+
+· Must be familiar with Microsoft Excel and R or Python
+
+· Must be proficient in elementary statistical methods
+
+· Must have taken a course in linear regression
+
+· Must be willing to work with others to solve problems
+
+· Must be able to communicate technical concepts to people unfamiliar with such concepts
+
+· Must be willing to put in a minimum of five hours of work per week throughout the school year · Must be willing to complete supplementary work during the summer
+
+*Relevant Skills*
+
+· Familiarity with SQL and a data visualization tool such as Tableau, PowerBI, or R Shiny
+
+· Proficiency in the application of machine learning models and methods
+
+· Familiarity with the sports strategy, game theory, and probability
+
+*Timeline*
+
+We plan on reviewing applications on the around the 15th of each month and responding to applications within a month. Please wait until at least two weeks after submitting your materials to email us regarding your application.
+
+**Instructions**
+
+Please answer each question in the margins (i.e. do not use a print function). Feel free to include code, but make sure it is hidden within the final product. You need to submit this file as a PDF. You can either knit the file directly to a PDF within R, or you may knit to an HTML and then save the file as a PDF by printing the page to a PDF. We suggest that you include the majority of your code in a separate file. Please include both your code and application files in a single ZIP file when you submit your materials to Abigail Mabe ([amabe\@unc.edu](mailto:ckerr@unc.edu){.email}). Please include "SAIL Application 2025" in the subject line.
+
+\newpage
+
+**Application**
+
+*Personal Information*
+
+1.  First and Last Name (First Last)
+
+2.  PID
+
+3.  UNC Email Address
+
+4.  Expected Graduation Month-Year
+
+5.  Major(s)
+
+6.  Minor(s)
+
+*Basic Academic Questions*
+
+7.  Please check which of the following courses you've taken. If you have taken a similar course to any of these or have self-taught the material, make a note of that below. If you have taken other courses (such as physics course) that you feel are relevant, please list them in the notes along with a short description.
+
+Course List \newline
+[] STOR 155 or equivalent \newline 
+[] STOR 320 or equivalent \newline
+[] STOR 435 or equivalent \newline
+[] STOR 445 or equivalent \newline
+[] STOR 455 or equivalent \newline
+
+Notes:
+
+8.  Please check which of the following programming languages or platforms you are comfortable using.
+
+Language List \newline
+[] R \newline 
+[] Python \newline
+[] SQL \newline
+[] Other: (note them here) \newline
+
+9.  Please list any experiences you have that you feel are relevant to this application, followed by a one or two sentence description.
+
+*Short Answer Questions*
+
+10. Please explain, in one or two paragraphs, why you would like to be an Undergraduate Student Analyst in The University of North Carolina at Chapel Hill Sports Analysis Intelligence Laboratory.
+
+11. Please share, in one or two paragraphs, how you feel you may contribute to both the sports and research communities here at the university, as an Undergraduate Student Analyst in The University of North Carolina at Chapel Hill Sports Analysis Intelligence Laboratory. Please be specific, if possible.
+
+12. Please choose a scholarly article from the Journal of Quantitative Analysis in Sports related to sports analytics and summarize the article in a 250-word letter to a coach. Remember to cite the name of the authors and the journal in a formal MLA citation.
+
+*Essay-Analysis*
+
+13. Please indicate a sport you would like to do applied research in through SAIL. Please write out a maximum 1,500-word essay-analysis on a topic in that sport, in the space below, that answers a research question. You must perform your analysis with R or Python using the whatever data you want. You are allowed to use other software/programming languages in addition to R and Python. Please limit tables and figures to at most five (words in tables and figures will not count towards the word count). Please clearly state and describe your research question, hypothesis, method, results, and conclusions.
