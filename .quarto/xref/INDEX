@@ -1,26 +1,17 @@
 {
-  "index.qmd": {
-    "index.html": "333a7fae"
-  },
-  "about.qmd": {
-    "about.html": "bd656b67"
-  },
-  "team.qmd": {
-    "team.html": "1fe15557"
-  },
   "contact.qmd": {
-    "contact.html": "79c4ea38"
+    "contact.html": "2845b9aa"
   },
-  "events.qmd": {
-    "events.html": "da378eac"
+  "index.qmd": {
+    "index.html": "44d42d57"
   },
   "projects.qmd": {
-    "projects.html": "e2203cd5"
-<<<<<<< Updated upstream
+    "projects.html": "41074ee5"
+  },
+  "team.qmd": {
+    "team.html": "4ee55e29"
   },
   "apply.qmd": {
-    "apply.html": "bf4e9066"
-=======
->>>>>>> Stashed changes
+    "apply.html": "5b199283"
   }
 }
