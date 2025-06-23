@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.555">
+<meta name="generator" content="quarto-1.5.56">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>SAIL @ UNC - Current SAIL Team</title>
+<title>SAIL Projects – SAIL @ UNC</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -67,6 +67,341 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<!-- Modern header additions -->
+
+<meta name="theme-color" content="#1e40af">
+
+<meta name="description" content="Sports Analytics Intelligence Laboratory (SAIL) at UNC - Advancing sports analytics through data science and research">
+
+<meta name="keywords" content="sports analytics, data science, UNC, basketball, statistics, research">
+
+<meta name="author" content="SAIL @ UNC">
+
+
+
+<!-- Open Graph tags -->
+
+<meta property="og:title" content="SAIL Projects – SAIL @ UNC">
+
+<meta property="og:description" content="">
+
+<meta property="og:type" content="website">
+
+<meta property="og:url" content="https://sail.unc.edu">
+
+
+
+<!-- Twitter Card tags -->
+
+<meta name="twitter:card" content="summary_large_image">
+
+<meta name="twitter:title" content="SAIL Projects – SAIL @ UNC">
+
+<meta name="twitter:description" content="">
+
+
+
+<!-- Preload critical fonts -->
+
+<link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&amp;display=swap"></noscript>
+
+
+
+<!-- Smooth scrolling -->
+
+<style>
+
+html {
+
+  scroll-behavior: smooth;
+
+}
+
+
+
+/* Loading animation */
+
+.loading {
+
+  opacity: 0;
+
+  transform: translateY(20px);
+
+  transition: all 0.6s ease;
+
+}
+
+
+
+.loading.loaded {
+
+  opacity: 1;
+
+  transform: translateY(0);
+
+}
+
+
+
+/* Back to top button */
+
+.back-to-top {
+
+  position: fixed;
+
+  bottom: 2rem;
+
+  right: 2rem;
+
+  background: var(--primary-color);
+
+  color: white;
+
+  border: none;
+
+  border-radius: 50%;
+
+  width: 3rem;
+
+  height: 3rem;
+
+  cursor: pointer;
+
+  opacity: 0;
+
+  visibility: hidden;
+
+  transition: all 0.3s ease;
+
+  z-index: 1000;
+
+  box-shadow: var(--shadow-lg);
+
+}
+
+
+
+.back-to-top.visible {
+
+  opacity: 1;
+
+  visibility: visible;
+
+}
+
+
+
+.back-to-top:hover {
+
+  background: var(--primary-light);
+
+  transform: translateY(-2px);
+
+}
+
+
+
+/* Progress bar */
+
+.progress-bar {
+
+  position: fixed;
+
+  top: 0;
+
+  left: 0;
+
+  width: 0%;
+
+  height: 3px;
+
+  background: linear-gradient(90deg, var(--primary-color), var(--primary-light));
+
+  z-index: 1001;
+
+  transition: width 0.3s ease;
+
+}
+
+</style>
+
+
+
+<!-- JavaScript for modern features -->
+
+<script>
+
+document.addEventListener('DOMContentLoaded', function() {
+
+  // Add loading animation to sections
+
+  const sections = document.querySelectorAll('section');
+
+  sections.forEach((section, index) => {
+
+    section.classList.add('loading');
+
+    setTimeout(() => {
+
+      section.classList.add('loaded');
+
+    }, index * 100);
+
+  });
+
+
+
+  // Back to top button
+
+  const backToTop = document.createElement('button');
+
+  backToTop.className = 'back-to-top';
+
+  backToTop.innerHTML = '↑';
+
+  backToTop.title = 'Back to top';
+
+  document.body.appendChild(backToTop);
+
+
+
+  // Progress bar
+
+  const progressBar = document.createElement('div');
+
+  progressBar.className = 'progress-bar';
+
+  document.body.appendChild(progressBar);
+
+
+
+  // Scroll event listeners
+
+  window.addEventListener('scroll', function() {
+
+    // Back to top button visibility
+
+    if (window.pageYOffset > 300) {
+
+      backToTop.classList.add('visible');
+
+    } else {
+
+      backToTop.classList.remove('visible');
+
+    }
+
+
+
+    // Progress bar
+
+    const scrollTop = window.pageYOffset;
+
+    const docHeight = document.body.offsetHeight - window.innerHeight;
+
+    const scrollPercent = (scrollTop / docHeight) * 100;
+
+    progressBar.style.width = scrollPercent + '%';
+
+  });
+
+
+
+  // Back to top functionality
+
+  backToTop.addEventListener('click', function() {
+
+    window.scrollTo({
+
+      top: 0,
+
+      behavior: 'smooth'
+
+    });
+
+  });
+
+
+
+  // Add hover effects to images
+
+  const images = document.querySelectorAll('img');
+
+  images.forEach(img => {
+
+    img.addEventListener('mouseenter', function() {
+
+      this.style.transform = 'scale(1.02)';
+
+    });
+
+    img.addEventListener('mouseleave', function() {
+
+      this.style.transform = 'scale(1)';
+
+    });
+
+  });
+
+
+
+  // Add intersection observer for animations
+
+  const observerOptions = {
+
+    threshold: 0.1,
+
+    rootMargin: '0px 0px -50px 0px'
+
+  };
+
+
+
+  const observer = new IntersectionObserver(function(entries) {
+
+    entries.forEach(entry => {
+
+      if (entry.isIntersecting) {
+
+        entry.target.classList.add('fade-in');
+
+      }
+
+    });
+
+  }, observerOptions);
+
+
+
+  // Observe all sections and images
+
+  document.querySelectorAll('section, img').forEach(el => {
+
+    observer.observe(el);
+
+  });
+
+});
+
+
+
+// Add smooth transitions to all interactive elements
+
+document.addEventListener('DOMContentLoaded', function() {
+
+  const interactiveElements = document.querySelectorAll('a, button, .nav-link, .column-container');
+
+  interactiveElements.forEach(el => {
+
+    el.style.transition = 'all 0.3s ease';
+
+  });
+
+});
+
+</script> 
 
 
 <link rel="stylesheet" href="styles.css">
@@ -79,12 +414,15 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./imgs/SAIL LOGO 4-01.png" alt="SAIL Logo" class="navbar-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">SAIL @ UNC</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -115,13 +453,13 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
@@ -135,16 +473,16 @@ ul.task-list li input[type="checkbox"] {
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Current SAIL Team</h1>
+<h1 class="title">SAIL Projects</h1>
 </div>
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -158,13 +496,14 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="working-projects" class="level2">
 <h2 class="anchored" data-anchor-id="working-projects">Working Projects</h2>
-<p><b>Assessment of Cyclical and Derivative-based Acute:Chronic Workload Ratios for Predicting Injuries in Collegiate Men’s Basketball</b></p>
-<p>Contributors: Conor Kerr, Doug Halverson, Khushi Shah</p>
+<p><strong>Assessment of Cyclical and Derivative-based Acute:Chronic Workload Ratios for Predicting Injuries in Collegiate Men’s Basketball</strong></p>
+<p><em>Contributors:</em> Conor Kerr, Doug Halverson, Khushi Shah</p>
 </section>
 <section id="past-projects" class="level2">
 <h2 class="anchored" data-anchor-id="past-projects">Past Projects</h2>
-<p><b>Utilizing Training Load and Intensity to Predict Team Performance in NCAA Division I Men’s Basketball</b></p>
-<p>Contributors: Conor Kerr, Sam Moore, Doug Halverson, Abbie Smith-Ryan<br> Presented in April, 2023</p>
+<p><strong>Utilizing Training Load and Intensity to Predict Team Performance in NCAA Division I Men’s Basketball</strong></p>
+<p><em>Contributors:</em> Conor Kerr, Sam Moore, Doug Halverson, Abbie Smith-Ryan<br>
+<em>Presented:</em> April 2023</p>
 
 
 </section>
@@ -205,18 +544,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -248,7 +576,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -256,7 +606,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
@@ -265,6 +615,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+          // default icon
+          link.classList.add("external");
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

@@ -1,31 +1,66 @@
 [
   {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Current SAIL Team",
+    "section": "",
+    "text": "SAIL brings together a diverse group of undergraduate students, graduate advisors, and faculty members with expertise in statistics, computer science, data science, and sports analytics. Our collaborative approach combines academic rigor with practical application to deliver cutting-edge insights for UNC’s athletic programs.\n\n\n\n\n\n\nTeam Structure\n\n\n\n\nUndergraduate Sports Analysts (USAs): Talented students applying analytics to real sports challenges\nGraduate Advisors: Advanced researchers providing mentorship and technical expertise\nFaculty Advisors: Experienced academics guiding research direction and methodology"
+  },
+  {
+    "objectID": "team.html#our-team",
+    "href": "team.html#our-team",
+    "title": "Current SAIL Team",
+    "section": "",
+    "text": "SAIL brings together a diverse group of undergraduate students, graduate advisors, and faculty members with expertise in statistics, computer science, data science, and sports analytics. Our collaborative approach combines academic rigor with practical application to deliver cutting-edge insights for UNC’s athletic programs.\n\n\n\n\n\n\nTeam Structure\n\n\n\n\nUndergraduate Sports Analysts (USAs): Talented students applying analytics to real sports challenges\nGraduate Advisors: Advanced researchers providing mentorship and technical expertise\nFaculty Advisors: Experienced academics guiding research direction and methodology"
+  },
+  {
+    "objectID": "team.html#undergraduates",
+    "href": "team.html#undergraduates",
+    "title": "Current SAIL Team",
+    "section": "Undergraduates",
+    "text": "Undergraduates\n\n  \n    \n    Shane Faberman\n    Undergraduate Sports Analyst, 2024–Present\n    Majors: Data Science and Computer Science\n    Basketball, football, baseball, in-game decision-making, and team development\n  \n  \n    \n    Arsh Madhani\n    Undergraduate Sports Analyst, 2024–Present\n    Majors: Computer Science and Physics (Quantitative Finance concentration)\n    Sports betting, predictive modeling, capital markets, basketball\n  \n  \n    \n    Isabel Marshall\n    Undergraduate Sports Analyst, 2024–Present\n    Majors: Business Administration and Physics (Quantitative Finance concentration)\n    Investment strategy, athletic performance, capital markets, and sports industry\n  \n  \n    \n    Yunus Mouline\n    Undergraduate Sports Analyst, 2024–Present\n    Majors: Statistics & Analytics and Mathematics (Spanish minor)\n    Basketball, track and field, predictive modeling, data visualization, and sports betting\n  \n  \n    \n    Aneesh Sallaram\n    Undergraduate Sports Analyst, 2024–Present\n    Majors: Computer Science and Statistics & Analytics\n    Basketball, baseball, line-up efficiency, predictive metrics\n  \n  \n    \n    Khushi Shah\n    Undergraduate Sports Analyst, 2024–Present\n    Majors: Statistics & Analytics (Data Science and Neuroscience minors)\n    Volleyball, athletic performance, exercise physiology, metabolism, and neuroscience\n  \n  \n    \n    Gordan Tao\n    Undergraduate Sports Analyst, 2024–Present\n    Majors: Computer Science and Data Science\n    Athletic performance and training"
+  },
+  {
     "objectID": "team.html#graduate-advisors",
     "href": "team.html#graduate-advisors",
     "title": "Current SAIL Team",
     "section": "Graduate Advisors",
-    "text": "Graduate Advisors\n\nKendall Thomas\nGraduate Advisor, 2023-Present  Principal, 2025-Present\nPh.D. student in Statistics and Operations Research\nAthletic performance, injury prevention, soccer, basketball, football, and volleyball\n\n\nLewis Dubrowski\nGraduate Advisor, 2024-Present  Undergraduate Sports Analyst, 2023-2024\nPh.D. student in Statistics and Operations Research\nFormerly Statistics & Analytics and Exercise Sport Science Major (History minor)\nBaseball, prediction, and biomechanics\n\n\nSam Moore\nGraduate Student Advisor, 2023-Present\nPh.D. student in Exercise Physiology\nFemale physiology and athletic performance\n\n\nColeman Ferrell\nGraduate Advisor, 2024-Present\nPh.D. student in Statistics and Operations Research\nSport-related concussions, neuroimaging, and multivariate Statistics"
+    "text": "Graduate Advisors\n\n  \n    \n    Kendall Thomas\n    Graduate Advisor, 2023–Present\n    Ph.D. Student in Statistics and Operations Research\n    Athletic performance, injury prevention, soccer, basketball, football, and volleyball\n  \n  \n    \n    Lewis Dubrowski\n    Graduate Advisor, 2024–Present\n    Ph.D. Student in Statistics and Operations Research\n    Baseball, prediction, and biomechanics\n  \n  \n    \n    Coleman Ferrell\n    Graduate Advisor, 2024–Present\n    Ph.D. Student in Statistics and Operations Research\n    Sport-related concussions, neuroimaging, and multivariate statistics\n  \n  \n    \n    Abigail Mabe\n    Graduate Advisor, 2025–Present\n    M.S.P.H. Student in Biostatistics\n    Marathon racing, swimming, data visualization, extreme value theory, and Bayesian data analysis"
   },
   {
     "objectID": "team.html#faculty-advisors",
     "href": "team.html#faculty-advisors",
     "title": "Current SAIL Team",
     "section": "Faculty Advisors",
-    "text": "Faculty Advisors\n\nMario Giacomazzo\nFaculty Director, 2022-Present\nPh.D. in Statistics (Arizona State University)\n\n\nWill Lassister\nFaculty Advisor, 2023-Present\nPh.D. in Operations Research (Georgia Institute of Technology)\n\n\nPatrick Lopatto\nFaculty Advisor, 2024-Present  Research Tzar, 2025-Present\nPh.D. in Mathematics (Harvard University)"
+    "text": "Faculty Advisors\n\n  \n    \n    Mario Giacomazzo\n    Faculty Director, 2022–Present\n    Ph.D. in Statistics (Arizona State University)\n  \n  \n    \n    Will Lassister\n    Faculty Advisor, 2023–Present\n    Ph.D. in Operations Research (Georgia Institute of Technology)\n  \n  \n    \n    Patrick Lopatto\n    Research Tzar, 2025–Present\n    Ph.D. in Mathematics (Harvard University)"
   },
   {
-    "objectID": "events.html#past-events",
-    "href": "events.html#past-events",
-    "title": "Events Organized by SAIL",
-    "section": "Past Events",
-    "text": "Past Events\n\nSAIL Speaker Series Spring 2024"
+    "objectID": "team.html#alumni",
+    "href": "team.html#alumni",
+    "title": "Current SAIL Team",
+    "section": "Alumni",
+    "text": "Alumni\n\n  \n    \n    Sarah Wooster\n    sarah.e.wooster@gmail.com\n    Undergraduate Sports Analyst, 2023–2024\n    B.S. in Statistics & Analytics and Information Science\n    PI Brokerage & Investments Data Analyst at Vanguard\n  \n  \n    \n    Jakob Thoma\n    jathoma14@gmail.com\n    Undergraduate Sports Analyst, 2023–2024\n    B.S. in Statistics & Analytics (Data Science minor)\n    Data Analyst at Red Ventures\n  \n  \n    \n    Andy Ackerman\n    Graduate Advisor, 2022–24\n    Ph.D. in Statistics and Operations Research\n    Assistant Professor at Lafayette College\n  \n  \n    \n    Conor Kerr\n    Founder, 2022–Present\n    Principal, 2022–2025\n    B.S. in Statistics & Analytics and Economics (Mathematics minor)\n    M.Sc. in Statistical Science Student at University of Oxford\n  \n  \n    \n    Connor McManus\n    Undergraduate Sports Analyst, 2024–2025\n    B.S. in Statistics & Analytics and B.A. in Biology\n    Data Analyst Associate Consultant at CapTech\n  \n  \n    \n    Sam Moore\n    Graduate Student Advisor, 2023–2025\n    Ph.D. in Exercise Physiology\n    Assistant Professor at University of Oklahoma"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "SAIL Projects",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Assessment of Cyclical and Derivative-based Acute:Chronic Workload Ratios for Predicting Injuries in Collegiate Men’s Basketball\nContributors: Conor Kerr, Doug Halverson, Khushi Shah"
+  },
+  {
+    "objectID": "projects.html#working-projects",
+    "href": "projects.html#working-projects",
+    "title": "SAIL Projects",
+    "section": "",
+    "text": "Assessment of Cyclical and Derivative-based Acute:Chronic Workload Ratios for Predicting Injuries in Collegiate Men’s Basketball\nContributors: Conor Kerr, Doug Halverson, Khushi Shah"
+  },
+  {
+    "objectID": "projects.html#past-projects",
+    "href": "projects.html#past-projects",
+    "title": "SAIL Projects",
+    "section": "Past Projects",
+    "text": "Past Projects\nUtilizing Training Load and Intensity to Predict Team Performance in NCAA Division I Men’s Basketball\nContributors: Conor Kerr, Sam Moore, Doug Halverson, Abbie Smith-Ryan\nPresented: April 2023"
   },
   {
     "objectID": "contact.html",
@@ -35,116 +70,73 @@
     "text": "&lt;p&gt;Loading…&lt;/p&gt;"
   },
   {
+    "objectID": "apply.html",
+    "href": "apply.html",
+    "title": "SAIL Undergraduate Student Analyst Application",
+    "section": "",
+    "text": "View PDF\n\n\n\n\nDownload Markdown File\n\n  Download .Rmd File"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Sports Analytics Intelligence Lab (SAIL)",
     "section": "",
-    "text": "The idea for the Sports Analytics Intelligence Laboratory (SAIL) was conceived in Fall 2022. Conor Kerr, advised by Dr. Mario Giacomazzo of the STOR Department, had been working on sports analytics projects with UNC Men’s and Women’s Basketball for two years. As the work demand increased, the need to expand increased. From December 2022 to January 2023, the first SAIL applications were received, and 52 well-deserving undergraduates applied to be an Undergraduate Sports Analyst (USA). With the help of Andrew Ackerman, a PhD student in the STOR department, we selected 5 students to be the first team of USAs.\n\n\n\n\n\n\n\nFounding members of SAIL from left to right: Jacob Thoma, Max Sleek, Lewis Dubrowski (top), Sarah Wooster, Conor Kerr, Abigail Mabe (bottom)"
+    "text": "SAIL Team at Work"
+  },
+  {
+    "objectID": "index.html#about-sail",
+    "href": "index.html#about-sail",
+    "title": "Sports Analytics Intelligence Lab (SAIL)",
+    "section": "About SAIL",
+    "text": "About SAIL\nThe Sports Analytics Intelligence Laboratory (SAIL) is a cutting-edge research group at the University of North Carolina at Chapel Hill dedicated to advancing sports analytics through innovative data science methodologies and collaborative research.\n\nOur Mission\nWe firmly believe that sports analytics can be transformative in helping athletes and coaches improve performance and gain competitive advantages. Our mission is to support UNC’s athletic programs through application-based research in sports analytics, leveraging our diverse data science expertise to extract innovative insights from the data you regularly collect or have access to.\n\n\n\n\n\n\nKey Principles\n\n\n\n\nData-Driven Insights: Transform raw data into actionable intelligence\nConfidentiality: Private consulting ensures your discoveries remain secure\nCollaboration: Partner with UNC athletic programs for mutual success\nInnovation: Apply cutting-edge analytics to solve real-world sports challenges"
   },
   {
     "objectID": "index.html#history-of-sail",
     "href": "index.html#history-of-sail",
     "title": "Sports Analytics Intelligence Lab (SAIL)",
-    "section": "",
-    "text": "The idea for the Sports Analytics Intelligence Laboratory (SAIL) was conceived in Fall 2022. Conor Kerr, advised by Dr. Mario Giacomazzo of the STOR Department, had been working on sports analytics projects with UNC Men’s and Women’s Basketball for two years. As the work demand increased, the need to expand increased. From December 2022 to January 2023, the first SAIL applications were received, and 52 well-deserving undergraduates applied to be an Undergraduate Sports Analyst (USA). With the help of Andrew Ackerman, a PhD student in the STOR department, we selected 5 students to be the first team of USAs.\n\n\n\n\n\n\n\nFounding members of SAIL from left to right: Jacob Thoma, Max Sleek, Lewis Dubrowski (top), Sarah Wooster, Conor Kerr, Abigail Mabe (bottom)"
+    "section": "History of SAIL",
+    "text": "History of SAIL\nThe idea for SAIL was conceived in Fall 2022 when Conor Kerr, advised by Dr. Mario Giacomazzo of the STOR Department, had been working on sports analytics projects with UNC Men’s and Women’s Basketball for two years. As the work demand increased, the need to expand became clear.\nFrom December 2022 to January 2023, the first SAIL applications were received, and 52 well-deserving undergraduates applied to be Undergraduate Sports Analysts (USAs). With the help of Andrew Ackerman, a PhD student in the STOR department, we selected 5 students to be the first team of USAs.\n\n\n\nFounding members of SAIL from left to right: Jacob Thoma, Max Sleek, Lewis Dubrowski (top), Sarah Wooster, Conor Kerr, Abigail Mabe (bottom)\n\n\n\n\n\n\n\n\nOur Growth\n\n\n\nSince our founding, SAIL has grown significantly, now supporting multiple athletic programs and conducting research across various sports disciplines."
   },
   {
-    "objectID": "index.html#mission-statement",
-    "href": "index.html#mission-statement",
+    "objectID": "index.html#what-we-do",
+    "href": "index.html#what-we-do",
     "title": "Sports Analytics Intelligence Lab (SAIL)",
-    "section": "Mission Statement",
-    "text": "Mission Statement\nWe firmly believe that sports analytics can be useful in helping athletes and coaches improve performance and gain competitive advantages. We aim to support our university’s athletic programs through application-based research in sports analytics. SAIL’s diverse data science skills can be useful in extracting innovative insights from the data you regularly collect or the data to which you have access. Through private consulting, we ensure that any discoveries from your data, remain between the SAIL team and yours."
+    "section": "What We Do",
+    "text": "What We Do\n\nData AnalysisResearch & DevelopmentConsulting Services\n\n\n\nPerformance Metrics: Develop comprehensive performance evaluation systems\nPredictive Modeling: Create models to forecast game outcomes and player performance\nStatistical Analysis: Apply advanced statistical methods to sports data\n\n\n\n\nMethodology Innovation: Develop new analytical approaches for sports data\nTool Development: Create custom software and tools for data analysis\nAcademic Research: Contribute to the broader sports analytics community\n\n\n\n\nPrivate Consulting: Confidential analysis for UNC athletic programs\nStrategic Planning: Help coaches and staff make data-driven decisions\nPerformance Optimization: Identify areas for improvement and optimization"
+  },
+  {
+    "objectID": "index.html#our-expertise",
+    "href": "index.html#our-expertise",
+    "title": "Sports Analytics Intelligence Lab (SAIL)",
+    "section": "Our Expertise",
+    "text": "Our Expertise\n\n🏀 Basketball Analytics⚽ Multi-Sport Analysis📊 Advanced Methods\n\n\n\nShot analysis and optimization\nPlayer efficiency metrics\nGame strategy insights\nPerformance tracking\n\n\n\n\nFootball performance metrics\nBaseball statistical modeling\nVolleyball analytics\nTrack and field optimization\n\n\n\n\nMachine learning applications\nPredictive modeling\nData visualization\nReal-time analytics"
   },
   {
     "objectID": "index.html#contacting-sail",
     "href": "index.html#contacting-sail",
     "title": "Sports Analytics Intelligence Lab (SAIL)",
     "section": "Contacting SAIL",
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    "text": "Contacting SAIL\nIf you are a member of the UNC community and would like the help of SAIL on data collection, data analysis, or sports analytics research, please fill out the Google form embedded here. After we discuss your project ideas with the team, we will respond quickly to set up a meeting with you and SAIL. If we believe that we can be helpful and provide you the analytical support you need, we will propose a plan to work with you. Our partnership with maybe short-term or long-term depending on your needs and our availability."
+    "text": "Contacting SAIL\nIf you are a member of the UNC community and would like SAIL’s help with data collection, data analysis, or sports analytics research, we’re here to support you.\n\n\n\n\n\n\nGet Started\n\n\n\n\nFill out our contact form here\nWe’ll review your project and discuss with our team\nQuick response to set up an initial meeting\nCustomized plan tailored to your specific needs\n\n\n\nOur partnerships can be short-term or long-term depending on your needs and our availability. We’re committed to providing the analytical support you need to achieve your goals.\n\n\n\n\n\n\nWhy Choose SAIL?\n\n\n\n\nUNC Expertise: Deep understanding of UNC’s athletic programs\nAcademic Rigor: Research-backed methodologies and approaches\nConfidentiality: Your data and insights remain private\nInnovation: Cutting-edge analytics and technology"
+  },
+  {
+    "objectID": "events.html#past-events",
+    "href": "events.html#past-events",
+    "title": "Events Organized by SAIL",
+    "section": "Past Events",
+    "text": "Past Events\n\nSAIL Speaker Series Spring 2024"
   },
   {
     "objectID": "events.html",
     "href": "events.html",
     "title": "Events Organized by SAIL",
     "section": "",
-    "text": ".column { float: left; width: 50%; }\n/* Clear floats after the columns */ .row:after { content: ““; display: table; clear: both; }"
+    "text": "SAIL Speaker Series Spring 2025"
   },
   {
     "objectID": "events.html#upcoming-events",
     "href": "events.html#upcoming-events",
     "title": "Events Organized by SAIL",
-    "section": "Upcoming Events",
-    "text": "Upcoming Events"
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-    "text": "Contacting SAIL\nIf you are a member of the UNC community and would like the help of SAIL on data collection, data analysis, or sports analytics research, please fill out the Google form embedded here. After we discuss your project ideas with the team, we will respond quickly to set up a meeting with you and SAIL. If we believe that we can be helpful and provide you the analytical support you need, we will propose a plan to work with you. Our partnership with maybe short-term or long-term depending on your needs and our availability.\nHello"
-  },
-  {
-    "objectID": "team.html#alumni",
-    "href": "team.html#alumni",
-    "title": "Current SAIL Team",
-    "section": "Alumni",
-    "text": "Alumni\n\nSarah Wooster\nsarah.e.wooster@gmail.com\nUndergraduate Sports Analyst, 2023-2024\nB.S. in Statistics & Analytics and Information Science\nData and Analytics Advanced Development Program at Vanguard\n\n\nJakob Thoma\njathoma14@gmail.com\nUndergraduate Sports Analyst, 2023-2024\nB.S. in Statistics & Analytics (Data Science minor)\nData Analyst at Red Ventures\n\n\nAndy Ackerman\nGraduate Advisor, 2022-24\nPh.D. student in Statistics and Operations Research"
-  },
-  {
-    "objectID": "projects.html#graduate-advisors",
-    "href": "projects.html#graduate-advisors",
-    "title": "Current SAIL Team",
-    "section": "Graduate Advisors",
-    "text": "Graduate Advisors"
-  },
-  {
-    "objectID": "projects.html#faculty-advisors",
-    "href": "projects.html#faculty-advisors",
-    "title": "Current SAIL Team",
-    "section": "Faculty Advisors",
-    "text": "Faculty Advisors"
-  },
-  {
-    "objectID": "projects.html#alumni",
-    "href": "projects.html#alumni",
-    "title": "Current SAIL Team",
-    "section": "Alumni",
-    "text": "Alumni\nAndy Jake Sarah"
-  },
-  {
-    "objectID": "team.html",
-    "href": "team.html",
-    "title": "Current SAIL Team",
     "section": "",
-    "text": "Founder, 2022-Present  Principal, 2022-2025 \nStatistics & Analytics and Economics (Mathematics minor)\nBasketball, athletic performance, athletic training, and sports economics\n\n\n\nUndergraduate Sports Analyst, 2024-Present\nStatistics & Analytics and Biology\nFootball, injury prevention, and volleyball.\n\n\n\nUndergraduate Sports Analyst, 2024-Present\nData Science and Computer Science\nBasketball, football, baseball, in-game decision-making, and team development\n\n\n\nUndergraduate Sports Analyst, 2024-Present\nStatistics & Analytics and Mathematics (Spanish minor)\nBasketball, track and field, predictive modeling, data visualization, and sports betting\n\n\n\nUndergraduate Sports Analyst, 2024-Present\nComputer Science and Data Science\nAthletic performance and training\n\n\n\nUndergraduate Sports Analyst, 2024-Present\nStatistics & Analytics (Data Science and Neuroscience minors)\nVolleyball, athletic performance, exercise physiology, metabolism, and neuroscience.\n\n\n\nUndergraduate Sports Analyst, 2023-Present\nStatistics & Analytics and Biology (Data Science minor)\nMarathon racing, swimming, data visualization, extreme value theory, and Bayesian data analysis\n\n\n\nUndergraduate Sports Analyst, 2024-Present\nBusiness Administration and Physics (Quantitative Finance concentration)\nInvestment strategy, athletic performance, capital markets, and sports industry\n\n\n\nUndergraduate Sports Analyst, 2024-Present\nComputer Science and Physics (Quantitative Finance concentration)\nSports betting, predictive modeling, capital markets, basketball"
-  },
-  {
-    "objectID": "team.html#undergraduate-sports-analysts-usas",
-    "href": "team.html#undergraduate-sports-analysts-usas",
-    "title": "Current SAIL Team",
-    "section": "",
-    "text": "Founder, 2022-Present  Principal, 2022-2025  Principal Emeritus, 2025-Present\nStatistics & Analytics and Economics (Mathematics minor)\nBasketball, athletic performance, athletic training, and sports economics\n\n\n\nUndergraduate Sports Analyst, 2024-Present\nStatistics & Analytics and Biology\nFootball, injury prevention, and volleyball.\n\n\n\nUndergraduate Sports Analyst, 2024-Present\nData Science and Computer Science\nBasketball, football, baseball, in-game decision making, and team development\n\n\n\nUndergraduate Sports Analyst, 2024-Present\nStatistics & Analytics and Mathematics (Spanish minor)\nBasketball, track and field, predictive modeling, data visualization, and sports betting\n\n\n\nUndergraduate Sports Analyst, 2024-Present\nComputer Science and Data Science\nAthletics performance and training\n\n\n\nUndergraduate Sports Analyst, 2024-Present\nStatistics & Analytics (Data Science and Neuroscience minors)\nvolleyball, athletic performance, exercise physiology, metabolism, and neuroscience.\n\n\n\nUndergraduate Sports Analyst, 2023-Present\nStatistics & Analytics and Biology (Data Science minor)\nMarathon Racing, Swimming, Visualization, Extreme Value Theory, and Bayesian analysis\n\n\n\nUndergraduate Sports Analyst, 2024-Present\nBusiness Administration and Physics (Quantitative Finance concentration)\nInvestment strategy, athletic performance, capital markets, and sports industry\n\n\n\nUndergraduate Sports Analyst, 2024-Present\nComputer Science and Physics (Quant Finance concentration)\nSports betting, predictive modeling, capital markets, basketball"
-  },
-  {
-    "objectID": "team.html#undergraduates",
-    "href": "team.html#undergraduates",
-    "title": "Current SAIL Team",
-    "section": "",
-    "text": "Founder, 2022-Present  Principal, 2022-2025 \nStatistics & Analytics and Economics (Mathematics minor)\nBasketball, athletic performance, athletic training, and sports economics\n\n\n\nUndergraduate Sports Analyst, 2024-Present\nStatistics & Analytics and Biology\nFootball, injury prevention, and volleyball.\n\n\n\nUndergraduate Sports Analyst, 2024-Present\nData Science and Computer Science\nBasketball, football, baseball, in-game decision-making, and team development\n\n\n\nUndergraduate Sports Analyst, 2024-Present\nStatistics & Analytics and Mathematics (Spanish minor)\nBasketball, track and field, predictive modeling, data visualization, and sports betting\n\n\n\nUndergraduate Sports Analyst, 2024-Present\nComputer Science and Data Science\nAthletic performance and training\n\n\n\nUndergraduate Sports Analyst, 2024-Present\nStatistics & Analytics (Data Science and Neuroscience minors)\nVolleyball, athletic performance, exercise physiology, metabolism, and neuroscience.\n\n\n\nUndergraduate Sports Analyst, 2023-Present\nStatistics & Analytics and Biology (Data Science minor)\nMarathon racing, swimming, data visualization, extreme value theory, and Bayesian data analysis\n\n\n\nUndergraduate Sports Analyst, 2024-Present\nBusiness Administration and Physics (Quantitative Finance concentration)\nInvestment strategy, athletic performance, capital markets, and sports industry\n\n\n\nUndergraduate Sports Analyst, 2024-Present\nComputer Science and Physics (Quantitative Finance concentration)\nSports betting, predictive modeling, capital markets, basketball"
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+    "text": "SAIL Speaker Series Spring 2025"
   }
 ]

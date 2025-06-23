@@ -1,18 +1,111 @@
 ---
 title: "Sports Analytics Intelligence Lab (SAIL)"
+subtitle: "Advancing Sports Analytics Through Data Science and Research"
 fig-cap-location: margin
 ---
 
+![SAIL Team at Work](images/assets_task_01jyf4jfs9fwd98das9gfpp1g0_1750707396_img_0.webp){fig-align="center" width="100%"}
+
+## About SAIL
+
+The Sports Analytics Intelligence Laboratory (SAIL) is a cutting-edge research group at the University of North Carolina at Chapel Hill dedicated to advancing sports analytics through innovative data science methodologies and collaborative research.
+
+### Our Mission
+
+We firmly believe that sports analytics can be transformative in helping athletes and coaches improve performance and gain competitive advantages. Our mission is to support UNC's athletic programs through application-based research in sports analytics, leveraging our diverse data science expertise to extract innovative insights from the data you regularly collect or have access to.
+
+::: callout-note
+## Key Principles
+
+-   **Data-Driven Insights**: Transform raw data into actionable intelligence
+-   **Confidentiality**: Private consulting ensures your discoveries remain secure
+-   **Collaboration**: Partner with UNC athletic programs for mutual success
+-   **Innovation**: Apply cutting-edge analytics to solve real-world sports challenges
+:::
+
 ## History of SAIL
 
-The idea for the Sports Analytics Intelligence Laboratory (SAIL) was conceived in Fall 2022. Conor Kerr, advised by Dr. Mario Giacomazzo of the STOR Department, had been working on sports analytics projects with UNC Men’s and Women’s Basketball for two years. As the work demand increased, the need to expand increased. From December 2022 to January 2023, the first SAIL applications were received, and 52 well-deserving undergraduates applied to be an Undergraduate Sports Analyst (USA). With the help of Andrew Ackerman, a PhD student in the STOR department, we selected 5 students to be the first team of USAs.
+The idea for SAIL was conceived in Fall 2022 when Conor Kerr, advised by Dr. Mario Giacomazzo of the STOR Department, had been working on sports analytics projects with UNC Men's and Women's Basketball for two years. As the work demand increased, the need to expand became clear.
 
-[![Founding members of SAIL from left to right: Jacob Thoma, Max Sleek, Lewis Dubrowski (top), Sarah Wooster, Conor Kerr, Abigail Mabe (bottom)](imgs/Class1.jpg){fig-align="center" width="70%" text-align="center"}](https://stor.unc.edu/news-item/sports-analysis-intelligence-laboratory/)
+From December 2022 to January 2023, the first SAIL applications were received, and 52 well-deserving undergraduates applied to be Undergraduate Sports Analysts (USAs). With the help of Andrew Ackerman, a PhD student in the STOR department, we selected 5 students to be the first team of USAs.
 
-## Mission Statement
+![Founding members of SAIL from left to right: Jacob Thoma, Max Sleek, Lewis Dubrowski (top), Sarah Wooster, Conor Kerr, Abigail Mabe (bottom)](imgs/Class1.jpg){fig-align="center" width="70%"}
 
-We firmly believe that sports analytics can be useful in helping athletes and coaches improve performance and gain competitive advantages. We aim to support our university’s athletic programs through application-based research in sports analytics. SAIL’s diverse data science skills can be useful in extracting innovative insights from the data you regularly collect or the data to which you have access. Through private consulting, we ensure that any discoveries from your data, remain between the SAIL team and yours.
+::: callout-tip
+## Our Growth
+
+Since our founding, SAIL has grown significantly, now supporting multiple athletic programs and conducting research across various sports disciplines.
+:::
+
+## What We Do
+
+::: panel-tabset
+### Data Analysis
+
+-   **Performance Metrics**: Develop comprehensive performance evaluation systems
+-   **Predictive Modeling**: Create models to forecast game outcomes and player performance
+-   **Statistical Analysis**: Apply advanced statistical methods to sports data
+
+### Research & Development
+
+-   **Methodology Innovation**: Develop new analytical approaches for sports data
+-   **Tool Development**: Create custom software and tools for data analysis
+-   **Academic Research**: Contribute to the broader sports analytics community
+
+### Consulting Services
+
+-   **Private Consulting**: Confidential analysis for UNC athletic programs
+-   **Strategic Planning**: Help coaches and staff make data-driven decisions
+-   **Performance Optimization**: Identify areas for improvement and optimization
+:::
+
+## Our Expertise
+
+::: {.panel-tabset}
+
+### 🏀 Basketball Analytics
+
+-   **Shot analysis and optimization**
+-   **Player efficiency metrics**
+-   **Game strategy insights**
+-   **Performance tracking**
+
+### ⚽ Multi-Sport Analysis
+
+-   **Football performance metrics**
+-   **Baseball statistical modeling**
+-   **Volleyball analytics**
+-   **Track and field optimization**
+
+### 📊 Advanced Methods
+
+-   **Machine learning applications**
+-   **Predictive modeling**
+-   **Data visualization**
+-   **Real-time analytics**
+
+:::
 
 ## Contacting SAIL
 
-If you are a member of the UNC community and would like the help of SAIL on data collection, data analysis, or sports analytics research, please fill out the Google form embedded [here](../contact.html). After we discuss your project ideas with the team, we will respond quickly to set up a meeting with you and SAIL. If we believe that we can be helpful and provide you the analytical support you need, we will propose a plan to work with you. Our partnership with maybe short-term or long-term depending on your needs and our availability.
+If you are a member of the UNC community and would like SAIL's help with data collection, data analysis, or sports analytics research, we're here to support you.
+
+::: callout-important
+## Get Started
+
+1.  **Fill out our contact form** [here](../contact.html)
+2.  **We'll review your project** and discuss with our team
+3.  **Quick response** to set up an initial meeting
+4.  **Customized plan** tailored to your specific needs
+:::
+
+Our partnerships can be short-term or long-term depending on your needs and our availability. We're committed to providing the analytical support you need to achieve your goals.
+
+::: callout-note
+## Why Choose SAIL?
+
+-   **UNC Expertise**: Deep understanding of UNC's athletic programs
+-   **Academic Rigor**: Research-backed methodologies and approaches
+-   **Confidentiality**: Your data and insights remain private
+-   **Innovation**: Cutting-edge analytics and technology
+:::

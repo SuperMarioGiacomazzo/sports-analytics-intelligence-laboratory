@@ -1,300 +1,183 @@
 ---
 title: "Current SAIL Team"
+subtitle: "Meet the talented individuals driving sports analytics innovation"
 ---
 
-```{=html}
-<style>
-.column-container {
-  display: flex;
-  width: 100%;
-  margin-bottom: 2rem;
-  clear: both;
-}
-.column-image {
-  width: 20%;
-  padding-right: 20px;
-  flex-shrink: 0;
-}
-.column-content {
-  width: 80%;
-}
-</style>
-```
+## Our Team
+
+SAIL brings together a diverse group of undergraduate students, graduate advisors, and faculty members with expertise in statistics, computer science, data science, and sports analytics. Our collaborative approach combines academic rigor with practical application to deliver cutting-edge insights for UNC's athletic programs.
+
+::: callout-note
+## Team Structure
+
+-   **Undergraduate Sports Analysts (USAs)**: Talented students applying analytics to real sports challenges
+-   **Graduate Advisors**: Advanced researchers providing mentorship and technical expertise
+-   **Faculty Advisors**: Experienced academics guiding research direction and methodology
+:::
 
 ## Undergraduates
 
-
-:::{.column-container}
-:::{.column-image}
-<img src="imgs/Photos25/Faberman25.JPG" width="180px" height="180px" style="border-radius: 50%; object-fit: cover; object-position: 50% 50%; border: 3px solid #333; display: block; margin: 0 auto;">
-:::
-
-:::{.column-content}
-***Shane Faberman*** </br>
-Undergraduate Sports Analyst, 2024–Present </br>
-*Data Science and Computer Science* </br>
-Basketball, football, baseball, in-game decision-making, and team development
-:::
-:::
-
-:::{.column-container}
-:::{.column-image}
-<img src="imgs/Photos25/Madhani25.JPG" width="180px" height="180px" style="border-radius: 50%; object-fit: cover; object-position: 50% 50%; border: 3px solid #333; display: block; margin: 0 auto;">
-:::
-
-:::{.column-content}
-***Arsh Madhani*** </br>
-Undergraduate Sports Analyst, 2024-Present </br>
-*Computer Science and Physics (Quantitative Finance concentration)* </br>
-Sports betting, predictive modeling, capital markets, basketball
-:::
-:::
-
-:::{.column-container}
-:::{.column-image}
-<img src="imgs/Photos25/Marshall25.JPG" width="180px" height="180px" style="border-radius: 50%; object-fit: cover; object-position: 50% 50%; border: 3px solid #333; display: block; margin: 0 auto;">
-:::
-
-:::{.column-content}
-***Isabel Marshall*** </br>
-Undergraduate Sports Analyst, 2024-Present </br>
-*Business Administration and Physics (Quantitative Finance concentration)* </br>
-Investment strategy, athletic performance, capital markets, and sports industry
-:::
-:::
-
-:::{.column-container}
-:::{.column-image}
-<img src="imgs/Photos25/Mouline25.JPG" width="180px" height="180px" style="border-radius: 50%; object-fit: cover; object-position: 50% 50%; border: 3px solid #333; display: block; margin: 0 auto;">
-:::
-
-:::{.column-content}
-***Yunus Mouline*** </br>
-Undergraduate Sports Analyst, 2024-Present </br>
-*Statistics & Analytics and Mathematics (Spanish minor)* </br>
-Basketball, track and field, predictive modeling, data visualization, and sports betting
-:::
-:::
-
-:::{.column-container}
-:::{.column-image}
-<img src="imgs/Photos25/Sallaram25.JPG" width="180px" height="180px" style="border-radius: 50%; object-fit: cover; object-position: 50% 50%; border: 3px solid #333; display: block; margin: 0 auto;">
-:::
-
-:::{.column-content}
-***Aneesh Sallaram*** </br>
-Undergraduate Sports Analyst, 2024-Present </br>
-*Computer Science and Statistics & Analytics* </br>
-Basketball, baseball, line-up efficiency, predictive metrics
-:::
-:::
-
-:::{.column-container}
-:::{.column-image}
-<img src="imgs/Photos25/Shah25.JPG" width="180px" height="180px" style="border-radius: 50%; object-fit: cover; object-position: 50% 50%; border: 3px solid #333; display: block; margin: 0 auto;">
-:::
-
-:::{.column-content}
-***Khushi Shah*** </br>
-Undergraduate Sports Analyst, 2024-Present </br>
-*Statistics & Analytics (Data Science and Neuroscience minors)* </br>
-Volleyball, athletic performance, exercise physiology, metabolism, and neuroscience
-:::
-:::
-
-:::{.column-container}
-:::{.column-image}
-<img src="imgs/Photos25/Tao25.JPG" width="180px" height="180px" style="border-radius: 50%; object-fit: cover; object-position: 50% 50%; border: 3px solid #333; display: block; margin: 0 auto;">
-:::
-
-:::{.column-content}
-***Gordan Tao*** </br>
-Undergraduate Sports Analyst, 2024-Present </br>
-*Computer Science and Data Science* </br>
-Athletic performance and training
-:::
-:::
+```{=html}
+<div class="team-grid">
+  <div class="team-member">
+    <img src="imgs/Photos25/Faberman25.JPG" alt="Shane Faberman">
+    <h4>Shane Faberman</h4>
+    <p><em>Undergraduate Sports Analyst, 2024–Present</em></p>
+    <p><strong>Majors:</strong> Data Science and Computer Science</p>
+    <p>Basketball, football, baseball, in-game decision-making, and team development</p>
+  </div>
+  <div class="team-member">
+    <img src="imgs/Photos25/Madhani25.JPG" alt="Arsh Madhani">
+    <h4>Arsh Madhani</h4>
+    <p><em>Undergraduate Sports Analyst, 2024–Present</em></p>
+    <p><strong>Majors:</strong> Computer Science and Physics (Quantitative Finance concentration)</p>
+    <p>Sports betting, predictive modeling, capital markets, basketball</p>
+  </div>
+  <div class="team-member">
+    <img src="imgs/Photos25/Marshall25.JPG" alt="Isabel Marshall">
+    <h4>Isabel Marshall</h4>
+    <p><em>Undergraduate Sports Analyst, 2024–Present</em></p>
+    <p><strong>Majors:</strong> Business Administration and Physics (Quantitative Finance concentration)</p>
+    <p>Investment strategy, athletic performance, capital markets, and sports industry</p>
+  </div>
+  <div class="team-member">
+    <img src="imgs/Photos25/Mouline25.JPG" alt="Yunus Mouline">
+    <h4>Yunus Mouline</h4>
+    <p><em>Undergraduate Sports Analyst, 2024–Present</em></p>
+    <p><strong>Majors:</strong> Statistics & Analytics and Mathematics (Spanish minor)</p>
+    <p>Basketball, track and field, predictive modeling, data visualization, and sports betting</p>
+  </div>
+  <div class="team-member">
+    <img src="imgs/Photos25/Sallaram25.JPG" alt="Aneesh Sallaram">
+    <h4>Aneesh Sallaram</h4>
+    <p><em>Undergraduate Sports Analyst, 2024–Present</em></p>
+    <p><strong>Majors:</strong> Computer Science and Statistics & Analytics</p>
+    <p>Basketball, baseball, line-up efficiency, predictive metrics</p>
+  </div>
+  <div class="team-member">
+    <img src="imgs/Photos25/Shah25.JPG" alt="Khushi Shah">
+    <h4>Khushi Shah</h4>
+    <p><em>Undergraduate Sports Analyst, 2024–Present</em></p>
+    <p><strong>Majors:</strong> Statistics & Analytics (Data Science and Neuroscience minors)</p>
+    <p>Volleyball, athletic performance, exercise physiology, metabolism, and neuroscience</p>
+  </div>
+  <div class="team-member">
+    <img src="imgs/Photos25/Tao25.JPG" alt="Gordan Tao">
+    <h4>Gordan Tao</h4>
+    <p><em>Undergraduate Sports Analyst, 2024–Present</em></p>
+    <p><strong>Majors:</strong> Computer Science and Data Science</p>
+    <p>Athletic performance and training</p>
+  </div>
+</div>
+```
 
 ## Graduate Advisors
 
-:::{.column-container}
-:::{.column-image}
-<img src="imgs/Photos25/Thomas25.JPG" width="180px" height="180px" style="border-radius: 50%; object-fit: cover; object-position: 50% 50%; border: 3px solid #333; display: block; margin: 0 auto;">
-:::
-
-:::{.column-content}
-***Kendall Thomas*** </br>
-Graduate Advisor, 2023-Present </br>
-Principal, 2025-Present </br>
-*Ph.D. Student in Statistics and Operations Research* </br>
-*B.S. in Mathematics and Computer Science (Davidson College)* </br>
-Athletic performance, injury prevention, soccer, basketball, football, and volleyball
-:::
-:::
-
-:::{.column-container}
-:::{.column-image}
-<img src="imgs/Photos25/Dubrowski25.JPG"width="180px" height="180px" style="border-radius: 50%; object-fit: cover; object-position: 50% 50%; border: 3px solid #333; display: block; margin: 0 auto;">
-:::
-
-:::{.column-content}
-***Lewis Dubrowski*** </br>
-Graduate Advisor, 2024-Present </br>
-Undergraduate Sports Analyst, 2023-2024 </br>
-*Ph.D. Student in Statistics and Operations Research* </br>
-*B.S. in Statistics & Analytics (University of North Carolina at Chapel Hill)* </br>
-Formerly Statistics & Analytics and Exercise Sport Science Major (History minor) </br>
-Baseball, prediction, and biomechanics
-:::
-:::
-
-:::{.column-container}
-:::{.column-image}
-<img src="imgs/Photos25/Ferrell25.JPG" width="180px" height="180px" style="border-radius: 50%; object-fit: cover; object-position: 50% 50%; border: 3px solid #333; display: block; margin: 0 auto;">
-:::
-
-:::{.column-content}
-***Coleman Ferrell*** </br>
-Graduate Advisor, 2024-Present </br>
-*Ph.D. Student in Statistics and Operations Research* </br>
-*B.S. in Industrial Engineering and Mathematics (East Carolina University)* </br>
-Sport-related concussions, neuroimaging, and multivariate statistics
-:::
-:::
-
-:::{.column-container}
-:::{.column-image}
-<img src="imgs/Photos25/Mabe25.JPG" width="180px" height="180px" style="border-radius: 50%; object-fit: cover; object-position: 50% 50%; border: 3px solid #333; display: block; margin: 0 auto;">
-:::
-
-:::{.column-content}
-***Abigail Mabe*** </br>
-Graduate Advisor, 2025-Present </br>
-Undergraduate Sports Analyst, 2023-2025 </br>
-*M.S.P.H. Student in Biostatistics* </br>
-*B.S. in Statistics & Analytics and B.A. in Biology (University of North Carolina at Chapel Hill)* </br>
-Marathon racing, swimming, data visualization, extreme value theory, and Bayesian data analysis
-:::
-:::
+```{=html}
+<div class="team-grid">
+  <div class="team-member">
+    <img src="imgs/Photos25/Thomas25.JPG" alt="Kendall Thomas">
+    <h4>Kendall Thomas</h4>
+    <p><em>Graduate Advisor, 2023–Present</em></p>
+    <p><strong>Ph.D. Student in Statistics and Operations Research</strong></p>
+    <p>Athletic performance, injury prevention, soccer, basketball, football, and volleyball</p>
+  </div>
+  <div class="team-member">
+    <img src="imgs/Photos25/Dubrowski25.JPG" alt="Lewis Dubrowski">
+    <h4>Lewis Dubrowski</h4>
+    <p><em>Graduate Advisor, 2024–Present</em></p>
+    <p><strong>Ph.D. Student in Statistics and Operations Research</strong></p>
+    <p>Baseball, prediction, and biomechanics</p>
+  </div>
+  <div class="team-member">
+    <img src="imgs/Photos25/Ferrell25.JPG" alt="Coleman Ferrell">
+    <h4>Coleman Ferrell</h4>
+    <p><em>Graduate Advisor, 2024–Present</em></p>
+    <p><strong>Ph.D. Student in Statistics and Operations Research</strong></p>
+    <p>Sport-related concussions, neuroimaging, and multivariate statistics</p>
+  </div>
+  <div class="team-member">
+    <img src="imgs/Photos25/Mabe25.JPG" alt="Abigail Mabe">
+    <h4>Abigail Mabe</h4>
+    <p><em>Graduate Advisor, 2025–Present</em></p>
+    <p><strong>M.S.P.H. Student in Biostatistics</strong></p>
+    <p>Marathon racing, swimming, data visualization, extreme value theory, and Bayesian data analysis</p>
+  </div>
+</div>
+```
 
 ## Faculty Advisors
 
-:::{.column-container}
-:::{.column-image}
-<img src="imgs/Photos25/Giacomazzo25.JPG" width="180px" height="180px" style="border-radius: 50%; object-fit: cover; object-position: 50% 50%; border: 3px solid #333; display: block; margin: 0 auto;">
-:::
-
-:::{.column-content}
-***Mario Giacomazzo*** </br>
-Faculty Director, 2022-Present </br>
-*Ph.D. in Statistics (Arizona State University)*
-:::
-:::
-
-:::{.column-container}
-:::{.column-image}
-<img src="imgs/Photos25/Lassister25.JPG" width="180px" height="180px" style="border-radius: 50%; object-fit: cover; object-position: 50% 50%; border: 3px solid #333; display: block; margin: 0 auto;">
-:::
-
-:::{.column-content}
-***Will Lassister*** </br>
-Faculty Advisor, 2023-Present </br>
-*Ph.D. in Operations Research (Georgia Institute of Technology)*
-:::
-:::
-
-:::{.column-container}
-:::{.column-image}
-<img src="imgs/Photos25/Lopatto25.JPG" width="180px" height="180px" style="border-radius: 50%; object-fit: cover; object-position: 50% 50%; border: 3px solid #333; display: block; margin: 0 auto;">
-:::
-
-:::{.column-content}
-***Patrick Lopatto*** </br>
-Faculty Advisor, 2024-Present </br>
-Research Tzar, 2025-Present </br>
-*Ph.D. in Mathematics (Harvard University)*
-:::
-:::
+```{=html}
+<div class="team-grid">
+  <div class="team-member">
+    <img src="imgs/Photos25/Giacomazzo25.JPG" alt="Mario Giacomazzo">
+    <h4>Mario Giacomazzo</h4>
+    <p><em>Faculty Director, 2022–Present</em></p>
+    <p><strong>Ph.D. in Statistics (Arizona State University)</strong></p>
+  </div>
+  <div class="team-member">
+    <img src="imgs/Photos25/Lassister25.JPG" alt="Will Lassister" >
+    <h4>Will Lassister</h4>
+    <p><em>Faculty Advisor, 2023–Present</em></p>
+    <p><strong>Ph.D. in Operations Research (Georgia Institute of Technology)</strong></p>
+  </div>
+  <div class="team-member">
+    <img src="imgs/Photos25/Lopatto25.JPG" alt="Patrick Lopatto" >
+    <h4>Patrick Lopatto</h4>
+    <p><em>Research Tzar, 2025–Present</em></p>
+    <p><strong>Ph.D. in Mathematics (Harvard University)</strong></p>
+  </div>
+```
 
 ## Alumni
 
-:::{.column-container}
-:::{.column-image}
-<img src="imgs/Photos25/Wooster25.JPG" width="180px" height="180px" style="border-radius: 50%; object-fit: cover; object-position: 50% 50%; border: 3px solid #333; display: block; margin: 0 auto;">
-:::
-
-:::{.column-content}
-***Sarah Wooster*** </br>
-sarah.e.wooster@gmail.com </br>
-Undergraduate Sports Analyst, 2023-2024 </br>
-*B.S. in Statistics & Analytics and Information Science* </br>
-PI Brokerage & Investments Data Analyst at Vanguard
-:::
-:::
-
-:::{.column-container}
-:::{.column-image}
-<img src="imgs/Photos25/Thoma25.JPG" width="180px" height="180px" style="border-radius: 50%; object-fit: cover; object-position: 50% 50%; border: 3px solid #333; display: block; margin: 0 auto;">
-:::
-
-:::{.column-content}
-***Jakob Thoma*** </br>
-jathoma14@gmail.com </br>
-Undergraduate Sports Analyst, 2023-2024 </br>
-*B.S. in Statistics & Analytics (Data Science minor)* </br>
-Data Analyst at Red Ventures
-:::
-:::
-
-:::{.column-container}
-:::{.column-image}
-<img src="imgs/Photos25/Ackerman25.JPG" width="180px" height="180px" style="border-radius: 50%; object-fit: cover; object-position: 50% 50%; border: 3px solid #333; display: block; margin: 0 auto;">
-:::
-
-:::{.column-content}
-***Andy Ackerman*** </br>
-Graduate Advisor, 2022-24 </br>
-*Ph.D. in Statistics and Operations Research* </br>
-Assistant Professor at Lafayette College
-:::
-:::
-
-:::{.column-container}
-:::{.column-image}
-<img src="imgs/Photos25/Kerr25.JPG" width="180px" height="180px" style="border-radius: 50%; object-fit: cover; object-position: 50% 50%; border: 3px solid #333; display: block; margin: 0 auto;">
-:::
-
-:::{.column-content}
-***Conor Kerr*** </br>
-Founder, 2022-Present </br>
-Principal, 2022-2025 </br>
-*B.S. in Statistics & Analytics and Economics (Mathematics minor)* </br>
-M.Sc. in Statistical Science Student at University of Oxford
-:::
-:::
-
-:::{.column-container}
-:::{.column-image}
-<img src="imgs/Photos25/McManus25.JPG" width="180px" height="180px" style="border-radius: 50%; object-fit: cover; object-position: 50% 50%; border: 3px solid #333; display: block; margin: 0 auto;">
-:::
-
-:::{.column-content}
-***Connor McManus*** </br>
-Undergraduate Sports Analyst, 2024-2025 </br>
-*B.S. in Statistics & Analytics and B.A. in Biology* </br>
-Data Analyst Associate Consultant at CapTech
-:::
-:::
-
-:::{.column-container}
-:::{.column-image}
-<img src="imgs/Photos25/Moore25.JPG" width="180px" height="180px" style="border-radius: 50%; object-fit: cover; object-position: 50% 50%; border: 3px solid #333; display: block; margin: 0 auto;">
-:::
-
-:::{.column-content}
-***Sam Moore*** </br>
-Graduate Student Advisor, 2023-2025 </br>
-*Ph.D. in Exercise Physiology* </br>
-Assistant Professor at University of Oklahoma
-:::
-:::
+```{=html}
+<div class="team-grid">
+  <div class="team-member">
+    <img src="imgs/Photos25/Wooster25.JPG" alt="Sarah Wooster" >
+    <h4>Sarah Wooster</h4>
+    <p><em>sarah.e.wooster@gmail.com</em></p>
+    <p>Undergraduate Sports Analyst, 2023–2024</p>
+    <p><strong>B.S. in Statistics & Analytics and Information Science</strong></p>
+    <p>PI Brokerage & Investments Data Analyst at Vanguard</p>
+  </div>
+  <div class="team-member">
+    <img src="imgs/Photos25/Thoma25.JPG" alt="Jakob Thoma" >
+    <h4>Jakob Thoma</h4>
+    <p><em>jathoma14@gmail.com</em></p>
+    <p>Undergraduate Sports Analyst, 2023–2024</p>
+    <p><strong>B.S. in Statistics & Analytics (Data Science minor)</strong></p>
+    <p>Data Analyst at Red Ventures</p>
+  </div>
+  <div class="team-member">
+    <img src="imgs/Photos25/Ackerman25.JPG" alt="Andy Ackerman" >
+    <h4>Andy Ackerman</h4>
+    <p><em>Graduate Advisor, 2022–24</em></p>
+    <p><strong>Ph.D. in Statistics and Operations Research</strong></p>
+    <p>Assistant Professor at Lafayette College</p>
+  </div>
+  <div class="team-member">
+    <img src="imgs/Photos25/Kerr25.JPG" alt="Conor Kerr" >
+    <h4>Conor Kerr</h4>
+    <p><em>Founder, 2022–Present</em></p>
+    <p><strong>Principal, 2022–2025</strong></p>
+    <p><strong>B.S. in Statistics & Analytics and Economics (Mathematics minor)</strong></p>
+    <p>M.Sc. in Statistical Science Student at University of Oxford</p>
+  </div>
+  <div class="team-member">
+    <img src="imgs/Photos25/McManus25.JPG" alt="Connor McManus">
+    <h4>Connor McManus</h4>
+    <p><em>Undergraduate Sports Analyst, 2024–2025</em></p>
+    <p><strong>B.S. in Statistics & Analytics and B.A. in Biology</strong></p>
+    <p>Data Analyst Associate Consultant at CapTech</p>
+  </div>
+  <div class="team-member">
+    <img src="imgs/Photos25/Moore25.JPG" alt="Sam Moore">
+    <h4>Sam Moore</h4>
+    <p><em>Graduate Student Advisor, 2023–2025</em></p>
+    <p><strong>Ph.D. in Exercise Physiology</strong></p>
+    <p>Assistant Professor at University of Oklahoma</p>
+  </div>
+</div>
+```
