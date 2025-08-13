@@ -34,13 +34,6 @@ SAIL brings together a diverse group of undergraduate students, graduate advisor
     <p>Sports betting, predictive modeling, capital markets, basketball</p>
   </div>
   <div class="team-member">
-    <img src="imgs/Photos25/Marshall25.JPG" alt="Isabel Marshall">
-    <h4>Isabel Marshall</h4>
-    <p><em>Undergraduate Sports Analyst, 2024–Present</em></p>
-    <p><strong>Majors:</strong> Business Administration and Physics (Quantitative Finance concentration)</p>
-    <p>Investment strategy, athletic performance, capital markets, and sports industry</p>
-  </div>
-  <div class="team-member">
     <img src="imgs/Photos25/Mouline25.JPG" alt="Yunus Mouline">
     <h4>Yunus Mouline</h4>
     <p><em>Undergraduate Sports Analyst, 2024–Present</em></p>
@@ -178,6 +171,12 @@ SAIL brings together a diverse group of undergraduate students, graduate advisor
     <p><em>Graduate Student Advisor, 2023–2025</em></p>
     <p><strong>Ph.D. in Exercise Physiology</strong></p>
     <p>Assistant Professor at University of Oklahoma</p>
+  </div>
+  <div class="team-member">
+    <img src="imgs/Photos25/Marshall25.JPG" alt="Isabel Marshall">
+    <h4>Isabel Marshall</h4>
+    <p><em>Undergraduate Sports Analyst, 2024–2024</em></p>
+    <p><strong>Majors:</strong> Business Administration and Physics (Quantitative Finance concentration)</p>
   </div>
 </div>
 ```

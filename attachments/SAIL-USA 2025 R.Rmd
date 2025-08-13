@@ -1,7 +1,7 @@
 ---
-title: "SAIL-USA 2025 Rolling Application Template"
-author: "C.A. Kerr"
-date: "2025-04-25"
+title: "SAIL-USA 2025 Rolling Application"
+author: "C.A. Kerr, Kendall Thomas"
+date: "Last Updated: 2025-06-05"
 output:
   pdf_document: default
   html_document:
@@ -44,7 +44,7 @@ We plan on reviewing applications on the around the 15th of each month and respo
 
 **Instructions**
 
-Please answer each question in the margins (i.e. do not use a print function). Feel free to include code, but make sure it is hidden within the final product. You need to submit this file as a PDF. You can either knit the file directly to a PDF within R, or you may knit to an HTML and then save the file as a PDF by printing the page to a PDF. We suggest that you include the majority of your code in a separate file. Please include both your code and application files in a single ZIP file when you submit your materials to Abigail Mabe ([amabe\@unc.edu](mailto:ckerr@unc.edu){.email}). Please include "SAIL Application 2025" in the subject line.
+Please answer each question in the margins (i.e. do not use a print function). Feel free to include code, but make sure it is hidden within the final product. You need to submit this file as a PDF. You can either knit the file directly to a PDF within R, or you may knit to an HTML and then save the file as a PDF by printing the page to a PDF. We suggest that you include the majority of your code in a separate file. Please include both your code and application files in a single ZIP file when you submit your materials to Abigail Mabe ([amabe\@unc.edu](mailto:amabe@unc.edu){.email}). Please include "SAIL Application 2025" in the subject line.
 
 \newpage
 
@@ -85,7 +85,7 @@ Language List \newline
 [] SQL \newline
 [] Other: (note them here) \newline
 
-9.  Please list any experiences you have that you feel are relevant to this application, followed by a one or two sentence description.
+9.  Please list any experiences you have that you feel are relevant to this application, followed by a one or two sentence description. 
 
 *Short Answer Questions*
 
