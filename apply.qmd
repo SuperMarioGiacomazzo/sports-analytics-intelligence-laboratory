@@ -14,4 +14,4 @@ title: "SAIL Undergraduate Student Analyst Application"
 
 <h2>Download R Markdown File</h2>
 
-<a href="attachments/SAIL-USA-2025-R.Rmd" download> <button style="padding: 10px 16px; font-size: 1em; cursor: pointer;"> Download .Rmd File </button> </a>
+<a href="https://github.com/SuperMarioGiacomazzo/sports-analytics-intelligence-laboratory/blob/main/attachments/SAIL-USA-2025-R.Rmd" download> <button style="padding: 10px 16px; font-size: 1em; cursor: pointer;"> Download .Rmd File </button> </a>
