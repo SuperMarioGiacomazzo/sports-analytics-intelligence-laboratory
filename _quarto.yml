@@ -18,12 +18,12 @@ website:
         href: index.qmd
       - text: "Team"
         href: team.qmd
+      - text: "Apply"
+        href: apply.qmd
       - text: "Events"
         href: events.qmd
       - text: "Projects"
         href: projects.qmd
-      - text: "Apply"
-        href: apply.qmd
       - text: "Contact"
         href: contact.qmd
     background: "primary"
