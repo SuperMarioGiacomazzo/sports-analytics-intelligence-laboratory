@@ -4,20 +4,22 @@ title: "Events Organized by SAIL"
 
 ## Upcoming Events
 
-### SAIL Speaker Series Spring 2025
 
-![SAIL Speaker Series Spring 2025](docs/imgs/SSS2025_RichardSmith){width="75%"}
 
 ## Past Events
+
+### SAIL Speaker Series Spring 2025
+
+![](imgs/SSS2025_RichardSmith.png){width="75%"}
 
 ### SAIL Speaker Series Spring 2024
 
 ::: {.row}
 ::: {.column width="50%"}
-![March Mathness](docs/imgs/SSS2024_MarchMathness)
+![](imgs/SSS2024_MarchMathness.png)
 :::
 
 ::: {.column width="50%"}
-![Women in Sports](docs/imgs/SSS2024_WomenInSports)
+![](imgs/SSS2024_WomenInSports.png)
 :::
 :::
