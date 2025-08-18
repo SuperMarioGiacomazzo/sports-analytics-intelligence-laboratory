@@ -1,7 +1,6 @@
 ---
 title: "SAIL-USA 2025 Rolling Application"
-author: "C.A. Kerr, Kendall Thomas"
-date: "Last Updated: 2025-06-05"
+date: "Last Updated: 2025-08-12"
 output:
   pdf_document: default
   html_document:
@@ -12,7 +11,9 @@ output:
 
 *Title and Work*
 
-The position of Undergraduate Student Analyst (USA) in The University of North Carolina at Chapel Hill Sports Analysis and Intelligence Laboratory (SAIL) will ask students to work in a team to assist the sport analytics efforts currently underway within the university. USAs will be tasked with using mathematics to make insights into the world of athletics, conducting data analyses on large sets of sports data related to game and practice performance. Part of the role would include communicating technical information in accurate and simple terms to decision makers and other stakeholders within the university and beyond. To complete such tasks, USAs will work in a group with multi-departmental graduate students and faculty advisors to consider big picture ideas and plans but will also work individually or in small groups to complete tasks such as programming R Scripts to carry out computation. Undergraduate Student Analysts can expect to work between three and five hours per week, including participation in weekly one-hour group meetings and weekly one-hour small group work sessions. Throughout their tenure, USAs may encounter rigorous work, but they should find their experience to be invaluable in their development as scholars and professionals.
+The Undergraduate Student Analyst (USA) position at the University of North Carolina at Chapel Hill’s Sports Analysis and Intelligence Laboratory (SAIL) offers students the opportunity to contribute directly to the university’s sports analytics initiatives. Working as part of a collaborative team, USAs will apply mathematical and statistical techniques to uncover insights into athletic performance, analyzing large datasets from games and practices. In addition to conducting technical analyses, USAs will translate complex findings into clear, accessible information for coaches, administrators, and other stakeholders both within and beyond the university.
+
+This role combines teamwork with independent problem-solving: USAs will collaborate with graduate students and faculty advisors from multiple departments to explore big-picture strategies while also completing individual or small-group tasks such as programming R scripts for data computation. The position requires a commitment of 3–5 hours per week, including a one-hour weekly group meeting and a one-hour small-group work session. While the work can be challenging, it promises invaluable professional and academic growth, equipping students with skills that will serve them well in both their studies and future careers.
 
 *Requirements*
 
@@ -45,6 +46,22 @@ We plan on reviewing applications on the around the 15th of each month and respo
 **Instructions**
 
 Please answer each question in the margins (i.e. do not use a print function). Feel free to include code, but make sure it is hidden within the final product. You need to submit this file as a PDF. You can either knit the file directly to a PDF within R, or you may knit to an HTML and then save the file as a PDF by printing the page to a PDF. We suggest that you include the majority of your code in a separate file. Please include both your code and application files in a single ZIP file when you submit your materials to Abigail Mabe ([amabe\@unc.edu](mailto:amabe@unc.edu){.email}). Please include "SAIL Application 2025" in the subject line.
+
+*Artificial Intelligence (AI) Use Policy*
+
+As part of the application process and any future work with the Sports Analysis and Intelligence Laboratory (SAIL) at UNC-Chapel Hill, you are expected to follow University guidelines on the responsible use of Artificial Intelligence (AI) tools:
+
+- AI is a support tool, not a substitute. You may use AI to brainstorm ideas, explore research topics, or analyze problems, but you are responsible for determining what is appropriate, accurate, and relevant.
+
+- Engage critically and responsibly. Carefully review AI-generated outputs for potential biases, limitations, inaccuracies, false information, and ethical concerns. Never submit AI-generated content without verification, and do not enter personal or confidential data into AI systems.
+
+- Be transparent about AI use. If you use AI for any part of your work, you must clearly declare, explain, and cite that usage, following applicable standards (APA, MLA, course, or project guidelines).
+
+- You are fully responsible for your work. Regardless of AI use, you are accountable for the quality, accuracy, and integrity of anything you submit.
+
+- Follow the UNC Code of Conduct at all times.
+
+By submitting this application, you acknowledge that you have read, understood, and agree to follow this AI Use Policy if selected for the position.
 
 \newpage
 
@@ -97,4 +114,18 @@ Language List \newline
 
 *Essay-Analysis*
 
-13. Please indicate a sport you would like to do applied research in through SAIL. Please write out a maximum 1,500-word essay-analysis on a topic in that sport, in the space below, that answers a research question. You must perform your analysis with R or Python using the whatever data you want. You are allowed to use other software/programming languages in addition to R and Python. Please limit tables and figures to at most five (words in tables and figures will not count towards the word count). Please clearly state and describe your research question, hypothesis, method, results, and conclusions.
+13. Please indicate a sport in which you would like to conduct applied research through SAIL. Then, prepare a professional, research-style written analysis (maximum 1,500 words) on a topic within that sport that answers a clear research question of your choice.
+
+Your submission should:
+
+- Be written in formal, professional style, similar to an academic paper or industry report.
+
+- Clearly state and describe your research question, hypothesis, methodology, results, and conclusions.
+
+- Limit tables and figures to a maximum of five (words within tables/figures do not count toward the word limit).
+
+- Focus on communicating your thinking, interpretation, and conclusions in writing — not just presenting code or raw output.
+
+You must perform your analysis using R or Python (you may also use other software or programming languages in addition). The code you write is separate from your essay but should be well-documented and provided with the application submission. Do not embed full code listings in the essay itself; instead, focus on explaining your methods and findings in clear, professional prose.
+
+
