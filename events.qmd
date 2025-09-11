@@ -4,7 +4,7 @@ title: "Events Organized by SAIL"
 
 ## Upcoming Events
 
-
+![](imgs/SSS2025_AndyGaldi.png){width="75%"}
 
 ## Past Events
 
@@ -14,7 +14,7 @@ title: "Events Organized by SAIL"
 
 ### SAIL Speaker Series Spring 2024
 
-::: {.row}
+::: row
 ::: {.column width="50%"}
 ![](imgs/SSS2024_MarchMathness.png)
 :::
