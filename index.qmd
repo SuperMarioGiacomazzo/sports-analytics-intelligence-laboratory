@@ -61,8 +61,7 @@ Since our founding, SAIL has grown significantly, now supporting multiple athlet
 
 ## Our Expertise
 
-::: {.panel-tabset}
-
+::: panel-tabset
 ### 🏀 Basketball Analytics
 
 -   **Shot analysis and optimization**
@@ -83,7 +82,6 @@ Since our founding, SAIL has grown significantly, now supporting multiple athlet
 -   **Predictive modeling**
 -   **Data visualization**
 -   **Real-time analytics**
-
 :::
 
 ## Contacting SAIL
