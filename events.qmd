@@ -4,13 +4,15 @@ title: "Events Organized by SAIL"
 
 ## Upcoming Events
 
-![](imgs/SSS2025_JasonOsborne.png){width="75%"}
-
-![](imgs/SSS2025_AndyGaldi.png){width="75%"}
+**None at this time**
 
 ## Past Events
 
+### SAIL Speaker Series Fall 2025
 
+![](imgs/SSS2025_JasonOsborne.png){width="75%"}
+
+![](imgs/SSS2025_AndyGaldi.png){width="75%"}
 
 ### SAIL Speaker Series Spring 2025
 

@@ -14,14 +14,15 @@ The Sports Analytics Intelligence Laboratory (SAIL) is a cutting-edge research g
 
 We firmly believe that sports analytics can be transformative in helping athletes and coaches improve performance and gain competitive advantages. Our mission is to support UNC's athletic programs through application-based research in sports analytics, leveraging our diverse data science expertise to extract innovative insights from the data you regularly collect or have access to.
 
-::: callout-note
-## Key Principles
 
+:::: {.callout-note}
+## Key Principles
 -   **Data-Driven Insights**: Transform raw data into actionable intelligence
 -   **Confidentiality**: Private consulting ensures your discoveries remain secure
 -   **Collaboration**: Partner with UNC athletic programs for mutual success
 -   **Innovation**: Apply cutting-edge analytics to solve real-world sports challenges
-:::
+::::
+
 
 ## History of SAIL
 
@@ -91,8 +92,9 @@ If you are a member of the UNC community and would like SAIL's help with data co
 ::: callout-important
 ## Get Started
 
-1.  **Fill out our contact form** [here](../contact.html)
-2.  **We'll review your project** and discuss with our team
+1.  **Fill out contact form** [here](../contact.html)
+2. **Email** Mario (<mgiacoma@email.unc.edu>) to notify
+2.  **Review and discussion** of your project with our team
 3.  **Quick response** to set up an initial meeting
 4.  **Customized plan** tailored to your specific needs
 :::

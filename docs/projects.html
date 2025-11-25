@@ -403,6 +403,49 @@ document.addEventListener('DOMContentLoaded', function() {
 
 </script> 
 
+  <script>window.backupDefine = window.define; window.define = undefined;</script><script src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js"></script>
+  <script>document.addEventListener("DOMContentLoaded", function () {
+ var mathElements = document.getElementsByClassName("math");
+ var macros = [];
+ for (var i = 0; i < mathElements.length; i++) {
+  var texText = mathElements[i].firstChild;
+  if (mathElements[i].tagName == "SPAN") {
+   katex.render(texText.data, mathElements[i], {
+    displayMode: mathElements[i].classList.contains('display'),
+    throwOnError: false,
+    macros: macros,
+    fleqn: false
+   });
+}}});
+  </script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.css">
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -436,16 +479,16 @@ document.addEventListener('DOMContentLoaded', function() {
 <span class="menu-text">Team</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./apply.html"> 
+<span class="menu-text">Apply</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./events.html"> 
 <span class="menu-text">Events</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./projects.html" aria-current="page"> 
 <span class="menu-text">Projects</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./apply.html"> 
-<span class="menu-text">Apply</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./contact.html"> 
@@ -462,18 +505,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#working-projects" id="toc-working-projects" class="nav-link active" data-scroll-target="#working-projects">Working Projects</a></li>
-  <li><a href="#past-projects" id="toc-past-projects" class="nav-link" data-scroll-target="#past-projects">Past Projects</a></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -482,7 +518,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 
-<div class="quarto-title-meta column-page-left">
+<div class="quarto-title-meta column-page">
 
     
   
@@ -494,19 +530,50 @@ document.addEventListener('DOMContentLoaded', function() {
 </header>
 
 
-<section id="working-projects" class="level2">
-<h2 class="anchored" data-anchor-id="working-projects">Working Projects</h2>
+<p><strong>Investigating the Presence of Mechanical Deviations in Baseball Swings Over Time</strong></p>
+<p><em>Contributors:</em> Khushi Shah, Yunus Mouline<br>
+<em>Links:</em> <a href="projects/YaleAnalyticsPaper.pdf">Paper</a></p>
+<div class="callout callout-style-simple callout-note no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>Abstract</strong></p>
+<div style="text-align: left;">
+<p>In professional baseball, every swing reflects a decision influenced by pitch characteristics, game context, and a batter’s intent. However, deviations from expected swing mechanics may indicate a breakdown in consistency throughout a game. This study investigates the presence and progression of deviations from expected swing mechanics throughout a game, focusing on two key metrics: swing length residuals and the relationship between bat speed and launch speed. Using pitch-level data from Major League Baseball, we apply regression models and residual analysis to quantify these deviations. A logistic regression indicated a <span class="math inline">26.4\%</span> increase in unintended swing likelihood per additional swing in an inning (p &lt; 0.001). Swing length analysis revealed increasing mechanical variability, with mean squared error increasing significantly with swing count (Estimate: <span class="math inline">0.00176</span>, <span class="math inline">p = 0.00467</span>). These trends suggest a pattern of mechanical inconsistency, potentially linked to fatigue or cognitive strain. This research provides a foundation for further exploration into batter performance trends and offers insights for coaching strategies aimed at injury prevention and fatigue management.</p>
+</div>
+</div>
+</div>
+</div>
+<hr>
+<p><strong>Quantifying the Impact of Current NBA Coaches</strong></p>
+<p><em>Contributor:</em> Shane Faberman<br>
+<em>Links:</em> <a href="projects/coach_research.pdf">Paper</a>, <a href="projects/coach_poster_sep25.pdf">Poster</a></p>
+<div class="callout callout-style-simple callout-note no-icon">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>Abstract</strong></p>
+<p>In the NBA, coaches play a crucial role in game strategy, player development, and managing team dynamics. However, quantifying coaching impact remains a challenge, as it is difficult to isolate a coach’s influence from that of their players. Unlike the plethora of statistics available for evaluating players, coaching performance is assessed far more subjectively. This study introduces a new metric, Box Plus-Minus (BPM) Over Expected(BOE), that evaluates coaches based on how their players perform relative to expectations, aiming to identify those who consistently maximize their players’ potential. To calculate BOE, Expected BPM (EBPM) was first computed for each player-season. Let a player’s age <span class="math inline">n</span> season represent the season when they were n years old. EBPM was derived by adjusting a player’s BPM from their age <span class="math inline">n-1</span> season based on average aging trends for qualifying players and the deviation from the league-average qualifying player at age <span class="math inline">n-1</span>. BOE was then calculated as the difference between a player’s actual BPM in their age <span class="math inline">n</span> season and their EBPM. According to BOE, media coach rankings tend to overrate championship-winning coaches. This is likely due to underrating the effect of superstar players such as Lebron James, Stephen Curry, and Nikola Jokić. Championships and regular-season win-loss records depend on many factors not under a coach’s control. BOE provides a more nuanced assessment of a coach’s system’s impact by shifting the focus toward individual player performance relative to expectation. It serves as a valuable tool, in conjunction with other factors, for evaluating coaching effectiveness.</p>
+</div>
+</div>
+</div>
+<hr>
+<p><strong>NFLPA 2024 Case Competition</strong></p>
+<p><em>Contributors:</em> Shane Faberman, Arsh Madhani,Isabel Marshall, Gordan Tao<br>
+<em>Links:</em> <a href="projects/NFLPA Write-Up.pdf">Paper</a></p>
+<hr>
 <p><strong>Assessment of Cyclical and Derivative-based Acute:Chronic Workload Ratios for Predicting Injuries in Collegiate Men’s Basketball</strong></p>
 <p><em>Contributors:</em> Conor Kerr, Doug Halverson, Khushi Shah</p>
-</section>
-<section id="past-projects" class="level2">
-<h2 class="anchored" data-anchor-id="past-projects">Past Projects</h2>
+<hr>
 <p><strong>Utilizing Training Load and Intensity to Predict Team Performance in NCAA Division I Men’s Basketball</strong></p>
 <p><em>Contributors:</em> Conor Kerr, Sam Moore, Doug Halverson, Abbie Smith-Ryan<br>
 <em>Presented:</em> April 2023</p>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

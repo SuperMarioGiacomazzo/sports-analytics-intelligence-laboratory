@@ -32,7 +32,7 @@
 
 /* Center everything */
 body {
-  text-align: center !important;
+  text-align: left !important;
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   line-height: 1.6;
   color: var(--text-primary);
@@ -41,22 +41,23 @@ body {
 }
 
 .quarto-container {
-  text-align: center !important;
+  text-align: left !important;
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 2rem;
 }
 
 section {
-  text-align: center !important;
+  text-align: left !important;
   margin: 2rem 0;
 }
 
-/* Center all content elements */
+/* Center all content elements (Changed Everything MG)*/
 p, h1, h2, h3, h4, h5, h6, ul, ol, li, blockquote, .callout, .panel-tabset .tab-content {
-  text-align: center !important;
+  text-align: left !important;
   margin-left: auto;
   margin-right: auto;
+  
 }
 
 /* Center images and figures */
@@ -73,6 +74,7 @@ p {
   color: var(--text-secondary);
   font-size: 1.1rem;
   line-height: 1.7;
+  text-align: left !important;
 }
 
 /* Center headings */
@@ -83,7 +85,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Center lists */
 ul, ol {
   display: inline-block;
-  text-align: center;
+  text-align: left;
   margin-left: auto;
   margin-right: auto;
   max-width: 800px;
@@ -91,7 +93,7 @@ ul, ol {
 
 /* Center list items */
 li {
-  text-align: center;
+  text-align: left;
   margin-bottom: 0.5rem;
 }
 
@@ -122,7 +124,7 @@ li {
 
 /* Center blockquotes */
 blockquote {
-  text-align: center !important;
+  text-align: left !important;
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
@@ -576,18 +578,22 @@ footer {
   margin: 1.5rem auto;
   background: var(--light-bg);
   max-width: 900px;
+  text-align: left !important;
 }
 
 .callout-note {
   border-left: 4px solid var(--primary-color);
+  text-align: left !important;
 }
 
 .callout-tip {
   border-left: 4px solid var(--success-color);
+  text-align: left !important;
 }
 
 .callout-important {
   border-left: 4px solid var(--warning-color);
+  text-align: left !important;
 }
 
 /* Panel tabset styling */
