@@ -10,7 +10,7 @@ SAIL brings together a diverse group of undergraduate students, graduate advisor
 ::: callout-note
 ## Team Structure
 
--   **Undergraduate Sports Analysts (USAs)**: Talented students applying analytics to real sports challenges
+-   **Undergraduate Student Analysts (USAs)**: Talented students applying analytics to real sports challenges
 -   **Graduate Advisors**: Advanced researchers providing mentorship and technical expertise
 -   **Faculty Advisors**: Experienced academics guiding research direction and methodology
 :::
