@@ -20,6 +20,13 @@ SAIL brings together a diverse group of undergraduate students, graduate advisor
 ```{=html}
 <div class="team-grid">
   <div class="team-member">
+    <img src="imgs/Photos25/Neha26.JPG" alt="Neha Jumani">
+    <h4>Neha Jumani</h4>
+    <p><em>Undergraduate Sports Analyst, 2026–Present</em></p>
+    <p><strong>Majors:</strong> Data Science (Economics minor)</p>
+    <p>Volleyball, Female-Focused Nutrition and Fitness, Basketball</p>
+  </div>
+    <div class="team-member">
     <img src="imgs/Photos25/Faberman25.JPG" alt="Shane Faberman">
     <h4>Shane Faberman</h4>
     <p><em>Undergraduate Sports Analyst, 2024–Present</em></p>
