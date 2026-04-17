@@ -24,8 +24,6 @@ website:
         href: events.qmd
       - text: "Projects"
         href: projects.qmd
-      - text: "Contact"
-        href: contact.qmd
     background: "primary"
     type: "dark"
 
