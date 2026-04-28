@@ -2,6 +2,46 @@
 title: "SAIL Projects"
 ---
 
+# Recent Work
+
+**Predicting College Basketball Spreads using Schedule-Adjusted and Context-Aware Features**
+
+*Contributors:* Yunus Mouline, Shane Faberman
+\
+
+<embed src="projects/Yunus_Poster_2026.pdf" type="application/pdf" width="800px" height="650px">
+
+------------------------------------------------------------------------
+
+**How Well Do Pickleball Rating Systems Reflect Skill? Evidence From Collegiate Data**
+
+*Contributors:* Ishan Gupta
+\
+
+<embed src="projects/Ishan_Poster_2026.pdf" type="application/pdf" width="800px" height="650px">
+
+------------------------------------------------------------------------
+
+**A Probabilistic Ranking Model for Large-Scale Athletic Performance**
+
+*Contributors:* Sophie Luxton, Abigail Mabe, Coleman Ferrell
+\
+
+<embed src="projects/Sophie_Poster_2026.pdf" type="application/pdf" width="800px" height="650px">
+
+------------------------------------------------------------------------
+
+**Estimating Player Impact in College Basketball via Regularized Adjusted Plus-Minus**
+
+*Contributors:* Shane Faberman, Yunus Mouline, Kendall Thomas, Lewis Dubrowski
+\
+
+<embed src="projects/Shane_Poster_2026.pdf" type="application/pdf" width="800px" height="650px">
+
+------------------------------------------------------------------------
+
+# Previous Work
+
 **Investigating the Presence of Mechanical Deviations in Baseball Swings Over Time**
 
 *Contributors:* Khushi Shah, Yunus Mouline\
